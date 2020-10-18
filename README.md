@@ -4,7 +4,7 @@
   </a>
   <br />
   <br />
-  <a href="https://github-readme-stats.vercel.app/api/wakatime/?username=MrBartusek&theme=react">
+  <a href="https://wakatime.com/@MrBartusek">
     <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=MrBartusek&theme=react" />
   </a>
 </p>
