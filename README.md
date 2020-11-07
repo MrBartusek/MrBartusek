@@ -1,6 +1,6 @@
 <h1>Hey, I'm MrBartusek</h1>
 
-<p>I'm Self-Taught Hobbyst Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197529.svg" width="13"/> <b>Poland</b> . Curretnly working on mine, and others, Open-Source Projects ❤️</p>
+<p>I'm a Self-Taught Hobbyist Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197529.svg" width="13"/> <b>Poland</b>. Currently working on mine, and others, Open-Source Projects ❤️</p>
 
 <h3>My Projects</h3>
 <p>This list contains all of my featured open-source projects.</p>
@@ -34,10 +34,10 @@
 
 <h3>Open Source Contributions</h3>
 <p>
-	I contributed to <b>20 Open Source Projects</b>. 
+	I have contributed to <b>20 Open Source Projects</b>. 
 	Opening <b>54 Issues</b> and <b>26 Pull Requests</b>.<br>
-	This section lists most the important ones.<br>
-	<a href="https://github.com/issues?q=is%3Aissue+author%3AMrBartusek">See all Issues</a> | <a href="https://github.com/issues?q=is%3Apull_request+author%3AMrBartusek+">See all Pull Requests</a>
+	This section lists the most important ones.<br>
+	<a href="https://github.com/issues?q=is%3Aissue+author%3AMrBartusek">See all Issues</a> | <a href="https://github.com/pulls?q=is%3Apr+author%3AMrBartusek">See all Pull Requests</a>
 <table>
 	<thead align="center">
 		<tr border: none;>
@@ -78,7 +78,7 @@
 ------------
 <p align="center">
 	This <i>README</i> is automaticly generated <b>every 3 hours</b>!<br>
-	Last refresh: <b>Saturday, 7 November, 17:12 CET</b><br>
+	Last refresh: <b>Saturday, 7 November, 17:18 CET</b><br>
 	Based on <a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert's</a> and couple others READMEs.<br>
-	<img alt="build" src="github.com/MrBartusek/MrBartusek/workflows/README build/badge.svg" />
+	<img alt="build" src="https://github.com/MrBartusek/MrBartusek/workflows/README%20build/badge.svg" />
 </p>
