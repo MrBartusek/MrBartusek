@@ -1,0 +1,23 @@
+{
+  "name": "mrbartusek-readme",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <a href=\"https://github.com/MrBartusek\">\r     <img src=\"https://github-readme-stats.vercel.app/api?username=mrbartusek&hide=stars&count_private=true&show_icons=true&theme=react\" />\r   </a>\r   <br />\r   <br />\r   <a href=\"https://wakatime.com/@MrBartusek\">\r     <img src=\"https://github-readme-stats.vercel.app/api/wakatime/?username=MrBartusek&theme=react\" />\r   </a>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrBartusek/MrBartusek.git"
+  },
+  "author": "MrBartusek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrBartusek/MrBartusek/issues"
+  },
+  "homepage": "https://github.com/MrBartusek/MrBartusek#readme",
+  "dependencies": {
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}
