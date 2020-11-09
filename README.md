@@ -35,7 +35,7 @@
 <h3>Open Source Contributions</h3>
 <p>
 	I have contributed to <b>20 Open Source Projects</b>. 
-	Opening <b>54 Issues</b> and <b>26 Pull Requests</b>.<br>
+	Opening <b>55 Issues</b> and <b>26 Pull Requests</b>.<br>
 	This section lists the most important ones.<br>
 	<a href="https://github.com/issues?q=is%3Aissue+author%3AMrBartusek">See all Issues</a> | <a href="https://github.com/pulls?q=is%3Apr+author%3AMrBartusek">See all Pull Requests</a>
 <table>
@@ -55,7 +55,7 @@
 	  <tr>
 			<td><a href="https://github.com/PreMiD&#x2F;Presences"><b>PreMiD&#x2F;Presences</b></a></td>
 			<td align="center"><img  alt="Pull Requests" src="https://img.shields.io/badge/pull%20requests-4-blueviolet?style=flat-square&labelColor=343b41"/></td>
-			<td align="center"><img alt="Issues" src="https://img.shields.io/badge/issues-0-blue?style=flat-square&labelColor=343b41"/></td>
+			<td align="center"><img alt="Issues" src="https://img.shields.io/badge/issues-1-blue?style=flat-square&labelColor=343b41"/></td>
 		</tr>
 	  <tr>
 			<td><a href="https://github.com/msk4862&#x2F;Copyright-free-image-search"><b>msk4862&#x2F;Copyright-free-image-search</b></a></td>
@@ -78,7 +78,7 @@
 ------------
 <p align="center">
 	This <i>README</i> is automaticly generated <b>every 3 hours</b>!<br>
-	Last refresh: <b>Monday, 9 November, 10:08 CET</b><br>
+	Last refresh: <b>Monday, 9 November, 13:11 CET</b><br>
 	Based on <a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert's</a> and couple others READMEs.<br><br>
 	<img alt="build" src="https://github.com/MrBartusek/MrBartusek/workflows/README%20build/badge.svg" />
 </p>
