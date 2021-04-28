@@ -1,6 +1,11 @@
 {
    "open_source_projects": [
       {
+         "github": "MrBartusek/MeteoalarmCard",
+         "name": "MeteoalarmCard",
+         "description": " Meteoalarm card for Home Assistant"
+      },
+      {
          "github": "ReplacementBot/ReplacementBot",
          "name": "ReplacementBot",
          "description": " School Substitutions Discord Bot"
