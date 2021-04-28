@@ -16,6 +16,13 @@
 	</thead>
 	<tbody>
 	  <tr>
+			<td><a href="https://github.com/MrBartusek&#x2F;MeteoalarmCard"><b>MeteoalarmCard</b></a> -  Meteoalarm card for Home Assistant</td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/MrBartusek&#x2F;MeteoalarmCard?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/MrBartusek&#x2F;MeteoalarmCard?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/MrBartusek&#x2F;MeteoalarmCard?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MrBartusek&#x2F;MeteoalarmCard?style=flat-square&labelColor=343b41"/></td>
+		</tr>
+	  <tr>
 			<td><a href="https://github.com/ReplacementBot&#x2F;ReplacementBot"><b>ReplacementBot</b></a> -  School Substitutions Discord Bot</td>
 			<td><img alt="Stars" src="https://img.shields.io/github/stars/ReplacementBot&#x2F;ReplacementBot?style=flat-square&labelColor=343b41"/></td>
 			<td><img alt="Forks" src="https://img.shields.io/github/forks/ReplacementBot&#x2F;ReplacementBot?style=flat-square&labelColor=343b41"/></td>
@@ -78,7 +85,7 @@
 ------------
 <p align="center">
 	This <i>README</i> is automaticly generated <b>every 3 hours</b>!<br>
-	Last refresh: <b>Wednesday, 28 April, 11:15 CEST</b><br>
+	Last refresh: <b>Wednesday, 28 April, 12:22 CEST</b><br>
 	Based on <a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert's</a> and couple others READMEs.<br><br>
 	<img alt="build" src="https://github.com/MrBartusek/MrBartusek/workflows/README%20build/badge.svg" />
 </p>
