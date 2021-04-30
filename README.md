@@ -1,6 +1,6 @@
 <h1>Hey, I'm MrBartusek</h1>
 
-<p>I'm a hobbyist developer from Poland. Currently working on a couple of my projects and contribute to open source.</p>
+<p>I'm a hobbyist developer from Poland. Currently working on couple of my projects and contribute to open source in my free time.</p>
 
 <h3>My Projects</h3>
 <p>This list contains all of my featured open-source projects.</p>
@@ -85,7 +85,7 @@
 ------------
 <p align="center">
 	This <i>README</i> is automaticly generated <b>every 3 hours</b>!<br>
-	Last refresh: <b>Friday, 30 April, 18:29 CEST</b><br>
+	Last refresh: <b>Friday, 30 April, 18:35 CEST</b><br>
 	Based on <a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert's</a> and couple others READMEs.<br><br>
 	<img alt="build" src="https://github.com/MrBartusek/MrBartusek/workflows/README%20build/badge.svg" />
 </p>
