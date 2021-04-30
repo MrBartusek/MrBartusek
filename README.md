@@ -1,6 +1,6 @@
 <h1>Hey, I'm MrBartusek</h1>
 
-<p>I'm a Self-Taught Hobbyist Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197529.svg" width="13"/> <b>Poland</b>. Currently working on mine, and others, Open-Source Projects ❤️</p>
+<p>I'm a hobbyist developer from Poland. Currently working on a couple of my projects and contribute to open source.</p>
 
 <h3>My Projects</h3>
 <p>This list contains all of my featured open-source projects.</p>
@@ -16,21 +16,21 @@
 	</thead>
 	<tbody>
 	  <tr>
-			<td><a href="https://github.com/MrBartusek&#x2F;MeteoalarmCard"><b>MeteoalarmCard</b></a> -  Card for Home Assistant</td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/MrBartusek&#x2F;MeteoalarmCard?style=flat-square&labelColor=343b41"/></td>
-			<td><img alt="Forks" src="https://img.shields.io/github/forks/MrBartusek&#x2F;MeteoalarmCard?style=flat-square&labelColor=343b41"/></td>
-			<td><img alt="Issues" src="https://img.shields.io/github/issues/MrBartusek&#x2F;MeteoalarmCard?style=flat-square&labelColor=343b41"/></td>
-			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MrBartusek&#x2F;MeteoalarmCard?style=flat-square&labelColor=343b41"/></td>
-		</tr>
-	  <tr>
-			<td><a href="https://github.com/ReplacementBot&#x2F;ReplacementBot"><b>ReplacementBot</b></a> -  School Substitutions Discord Bot</td>
+			<td><a href="https://github.com/ReplacementBot&#x2F;ReplacementBot"><b>ReplacementBot</b></a> - School Substitutions Discord Bot</td>
 			<td><img alt="Stars" src="https://img.shields.io/github/stars/ReplacementBot&#x2F;ReplacementBot?style=flat-square&labelColor=343b41"/></td>
 			<td><img alt="Forks" src="https://img.shields.io/github/forks/ReplacementBot&#x2F;ReplacementBot?style=flat-square&labelColor=343b41"/></td>
 			<td><img alt="Issues" src="https://img.shields.io/github/issues/ReplacementBot&#x2F;ReplacementBot?style=flat-square&labelColor=343b41"/></td>
 			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ReplacementBot&#x2F;ReplacementBot?style=flat-square&labelColor=343b41"/></td>
 		</tr>
 	  <tr>
-			<td><a href="https://github.com/MrBartusek&#x2F;CargoCars"><b>CargoCars</b></a> -  GTV5 Cargo Cars React App</td>
+			<td><a href="https://github.com/MrBartusek&#x2F;MeteoalarmCard"><b>MeteoalarmCard</b></a> - Card for Home Assistant</td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/MrBartusek&#x2F;MeteoalarmCard?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/MrBartusek&#x2F;MeteoalarmCard?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/MrBartusek&#x2F;MeteoalarmCard?style=flat-square&labelColor=343b41"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MrBartusek&#x2F;MeteoalarmCard?style=flat-square&labelColor=343b41"/></td>
+		</tr>
+	  <tr>
+			<td><a href="https://github.com/MrBartusek&#x2F;CargoCars"><b>CargoCars</b></a> - GTV5 Cargo Cars React App</td>
 			<td><img alt="Stars" src="https://img.shields.io/github/stars/MrBartusek&#x2F;CargoCars?style=flat-square&labelColor=343b41"/></td>
 			<td><img alt="Forks" src="https://img.shields.io/github/forks/MrBartusek&#x2F;CargoCars?style=flat-square&labelColor=343b41"/></td>
 			<td><img alt="Issues" src="https://img.shields.io/github/issues/MrBartusek&#x2F;CargoCars?style=flat-square&labelColor=343b41"/></td>
@@ -85,7 +85,7 @@
 ------------
 <p align="center">
 	This <i>README</i> is automaticly generated <b>every 3 hours</b>!<br>
-	Last refresh: <b>Friday, 30 April, 17:13 CEST</b><br>
+	Last refresh: <b>Friday, 30 April, 18:29 CEST</b><br>
 	Based on <a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert's</a> and couple others READMEs.<br><br>
 	<img alt="build" src="https://github.com/MrBartusek/MrBartusek/workflows/README%20build/badge.svg" />
 </p>

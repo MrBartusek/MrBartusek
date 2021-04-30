@@ -1,7 +1,7 @@
 {
   "name": "mrbartusek-readme",
   "version": "1.0.0",
-  "description": "<p align=\"center\">\r   <a href=\"https://github.com/MrBartusek\">\r     <img src=\"https://github-readme-stats.vercel.app/api?username=mrbartusek&hide=stars&count_private=true&show_icons=true&theme=react\" />\r   </a>\r   <br />\r   <br />\r   <a href=\"https://wakatime.com/@MrBartusek\">\r     <img src=\"https://github-readme-stats.vercel.app/api/wakatime/?username=MrBartusek&theme=react\" />\r   </a>\r </p>",
+  "description": "mrbartusek-readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

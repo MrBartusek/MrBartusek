@@ -1,19 +1,19 @@
 {
    "open_source_projects": [
       {
-         "github": "MrBartusek/MeteoalarmCard",
-         "name": "MeteoalarmCard",
-         "description": " Card for Home Assistant"
-      },
-      {
          "github": "ReplacementBot/ReplacementBot",
          "name": "ReplacementBot",
-         "description": " School Substitutions Discord Bot"
+         "description": "School Substitutions Discord Bot"
+      },
+      {
+         "github": "MrBartusek/MeteoalarmCard",
+         "name": "MeteoalarmCard",
+         "description": "Card for Home Assistant"
       },
       {
          "github": "MrBartusek/CargoCars",
          "name": "CargoCars",
-         "description": " GTV5 Cargo Cars React App"
+         "description": "GTV5 Cargo Cars React App"
       }
    ]
 }
