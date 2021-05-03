@@ -41,8 +41,8 @@
 
 <h3>Open Source Contributions</h3>
 <p>
-	I have contributed to <b>23 Open Source Projects</b>. 
-	Opening <b>57 Issues</b> and <b>31 Pull Requests</b>.<br>
+	I have contributed to <b>24 Open Source Projects</b>. 
+	Opening <b>58 Issues</b> and <b>31 Pull Requests</b>.<br>
 	This section lists the most important ones.<br>
 	<a href="https://github.com/issues?q=is%3Aissue+author%3AMrBartusek">See all Issues</a> | <a href="https://github.com/pulls?q=is%3Apr+author%3AMrBartusek">See all Pull Requests</a>
 <table>
@@ -85,7 +85,7 @@
 ------------
 <p align="center">
 	This <i>README</i> is automaticly generated <b>every 3 hours</b>!<br>
-	Last refresh: <b>Sunday, 2 May, 23:11 CEST</b><br>
+	Last refresh: <b>Monday, 3 May, 02:39 CEST</b><br>
 	Based on <a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert's</a> and couple others READMEs.<br><br>
 	<img alt="build" src="https://github.com/MrBartusek/MrBartusek/workflows/README%20build/badge.svg" />
 </p>
