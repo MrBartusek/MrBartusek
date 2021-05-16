@@ -1,14 +1,14 @@
 {
    "open_source_projects": [
       {
-         "github": "ReplacementBot/ReplacementBot",
-         "name": "ReplacementBot",
-         "description": "School Substitutions Discord Bot"
-      },
-      {
          "github": "MrBartusek/MeteoalarmCard",
          "name": "MeteoalarmCard",
          "description": "Card for Home Assistant"
+      },
+      {
+         "github": "ReplacementBot/ReplacementBot",
+         "name": "ReplacementBot",
+         "description": "School Substitutions Discord Bot"
       },
       {
          "github": "MrBartusek/CargoCars",
