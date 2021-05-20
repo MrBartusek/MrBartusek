@@ -18,10 +18,26 @@
 	{{#open_source_projects}}
 	  <tr>
 			<td><a href="https://github.com/{{github}}"><b>{{name}}</b></a> - {{description}}</td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/{{github}}?style=flat-square&labelColor=343b41"/></td>
-			<td><img alt="Forks" src="https://img.shields.io/github/forks/{{github}}?style=flat-square&labelColor=343b41"/></td>
-			<td><img alt="Issues" src="https://img.shields.io/github/issues/{{github}}?style=flat-square&labelColor=343b41"/></td>
-			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{github}}?style=flat-square&labelColor=343b41"/></td>
+			<td>
+				<a href="https://github.com/{{github}}/stargazers">
+					<img alt="Stars" src="https://img.shields.io/github/stars/{{github}}?style=flat-square&labelColor=343b41"/>
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/{{github}}/network/members">
+					<img alt="Forks" src="https://img.shields.io/github/forks/{{github}}?style=flat-square&labelColor=343b41"/>
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/{{github}}/issues?q=is:issue+sort:updated-desc+is:open">
+					<img alt="Issues" src="https://img.shields.io/github/issues/{{github}}?style=flat-square&labelColor=343b41"/>
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/{{github}}/pulls?q=is:pr+is:open+sort:updated-desc">
+					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{github}}?style=flat-square&labelColor=343b41"/>
+				</a>
+			</td>
 		</tr>
 	{{/open_source_projects}}
 	</tbody>
@@ -45,8 +61,16 @@
 	{{#open_source_contributions}}
 	  <tr>
 			<td><a href="https://github.com/{{name}}"><b>{{name}}</b></a></td>
-			<td align="center"><img  alt="Pull Requests" src="https://img.shields.io/badge/pull%20requests-{{pull_requests}}-blueviolet?style=flat-square&labelColor=343b41"/></td>
-			<td align="center"><img alt="Issues" src="https://img.shields.io/badge/issues-{{issues}}-blue?style=flat-square&labelColor=343b41"/></td>
+			<td align="center">
+				<a href="https://github.com/{{name}}/pulls?q=is:pr+sort:updated-desc+author:MrBartusek">
+					<img alt="Pull Requests" src="https://img.shields.io/badge/pull%20requests-{{pull_requests}}-blueviolet?style=flat-square&labelColor=343b41"/>
+				</a>
+			</td>
+			<td align="center">
+				<a href="https://github.com/{{name}}/issues?q=is:issue+sort:updated-desc+author:MrBartusek">
+					<img alt="Issues" src="https://img.shields.io/badge/issues-{{issues}}-blue?style=flat-square&labelColor=343b41"/>
+				</a>
+			</td>
 		</tr>
 	{{/open_source_contributions}}
 	</tbody>
