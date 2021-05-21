@@ -90,7 +90,7 @@
 <h3>Open Source Contributions</h3>
 <p>
 	I have contributed to <b>28 Open Source Projects</b>. 
-	Opening <b>60 Issues</b> and <b>35 Pull Requests</b>.<br>
+	Opening <b>60 Issues</b> and <b>36 Pull Requests</b>.<br>
 	This section lists the most important ones.<br>
 	<a href="https://github.com/issues?q=is%3Aissue+author%3AMrBartusek">See all Issues</a> | <a href="https://github.com/pulls?q=is%3Apr+author%3AMrBartusek">See all Pull Requests</a>
 <table>
@@ -119,7 +119,7 @@
 			<td><a href="https://github.com/PreMiD&#x2F;Presences"><b>PreMiD&#x2F;Presences</b></a></td>
 			<td align="center">
 				<a href="https://github.com/PreMiD&#x2F;Presences/pulls?q=is:pr+sort:updated-desc+author:MrBartusek">
-					<img alt="Pull Requests" src="https://img.shields.io/badge/pull%20requests-9-blueviolet?style=flat-square&labelColor=343b41"/>
+					<img alt="Pull Requests" src="https://img.shields.io/badge/pull%20requests-10-blueviolet?style=flat-square&labelColor=343b41"/>
 				</a>
 			</td>
 			<td align="center">
@@ -186,7 +186,7 @@
 ------------
 <p align="center">
 	This <i>README</i> is automaticly generated <b>every 3 hours</b>!<br>
-	Last refresh: <b>Friday, 21 May, 20:32 CEST</b><br>
+	Last refresh: <b>Friday, 21 May, 23:11 CEST</b><br>
 	Based on <a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert's</a> and couple others READMEs.<br><br>
 	<img alt="build" src="https://github.com/MrBartusek/MrBartusek/workflows/README%20build/badge.svg" />
 </p>
