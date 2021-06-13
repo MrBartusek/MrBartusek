@@ -90,7 +90,7 @@
 <h3>Open Source Contributions</h3>
 <p>
 	I have contributed to <b>31 Open Source Projects</b>. 
-	Opening <b>64 Issues</b> and <b>42 Pull Requests</b>.<br>
+	Opening <b>64 Issues</b> and <b>43 Pull Requests</b>.<br>
 	This section lists the most important ones.<br>
 	<a href="https://github.com/issues?q=is%3Aissue+author%3AMrBartusek">See all Issues</a> | <a href="https://github.com/pulls?q=is%3Apr+author%3AMrBartusek">See all Pull Requests</a>
 <table>
@@ -168,6 +168,19 @@
 			</td>
 		</tr>
 	  <tr>
+			<td><a href="https://github.com/hacs&#x2F;documentation"><b>hacs&#x2F;documentation</b></a></td>
+			<td align="center">
+				<a href="https://github.com/hacs&#x2F;documentation/pulls?q=is:pr+sort:updated-desc+author:MrBartusek">
+					<img alt="Pull Requests" src="https://img.shields.io/badge/pull%20requests-2-blueviolet?style=flat-square&labelColor=343b41"/>
+				</a>
+			</td>
+			<td align="center">
+				<a href="https://github.com/hacs&#x2F;documentation/issues?q=is:issue+sort:updated-desc+author:MrBartusek">
+					<img alt="Issues" src="https://img.shields.io/badge/issues-0-blue?style=flat-square&labelColor=343b41"/>
+				</a>
+			</td>
+		</tr>
+	  <tr>
 			<td><a href="https://github.com/pmarsceill&#x2F;just-the-docs"><b>pmarsceill&#x2F;just-the-docs</b></a></td>
 			<td align="center">
 				<a href="https://github.com/pmarsceill&#x2F;just-the-docs/pulls?q=is:pr+sort:updated-desc+author:MrBartusek">
@@ -186,7 +199,7 @@
 ------------
 <p align="center">
 	This <i>README</i> is automaticly generated <b>every 3 hours</b>!<br>
-	Last refresh: <b>Sunday, 13 June, 14:15 CEST</b><br>
+	Last refresh: <b>Sunday, 13 June, 17:11 CEST</b><br>
 	Based on <a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert's</a> and couple others READMEs.<br><br>
 	<img alt="build" src="https://github.com/MrBartusek/MrBartusek/workflows/README%20build/badge.svg" />
 </p>
