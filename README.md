@@ -84,6 +84,29 @@
 				</a>
 			</td>
 		</tr>
+	  <tr>
+			<td><a href="https://github.com/MrBartusek&#x2F;corkus.py"><b>corkus.py</b></a> - Wynncraft API Wrapper</td>
+			<td>
+				<a href="https://github.com/MrBartusek&#x2F;corkus.py/stargazers">
+					<img alt="Stars" src="https://img.shields.io/github/stars/MrBartusek&#x2F;corkus.py?style=flat-square&labelColor=343b41"/>
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/MrBartusek&#x2F;corkus.py/network/members">
+					<img alt="Forks" src="https://img.shields.io/github/forks/MrBartusek&#x2F;corkus.py?style=flat-square&labelColor=343b41"/>
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/MrBartusek&#x2F;corkus.py/issues?q=is:issue+sort:updated-desc+is:open">
+					<img alt="Issues" src="https://img.shields.io/github/issues/MrBartusek&#x2F;corkus.py?style=flat-square&labelColor=343b41"/>
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/MrBartusek&#x2F;corkus.py/pulls?q=is:pr+is:open+sort:updated-desc">
+					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MrBartusek&#x2F;corkus.py?style=flat-square&labelColor=343b41"/>
+				</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -212,7 +235,7 @@
 ------------
 <p align="center">
 	This <i>README</i> is automaticly generated <b>every 3 hours</b>!<br>
-	Last refresh: <b>Thursday, 9 September, 20:12 CEST</b><br>
+	Last refresh: <b>Thursday, 9 September, 20:55 CEST</b><br>
 	Based on <a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert's</a> and couple others READMEs.<br><br>
 	<img alt="build" src="https://github.com/MrBartusek/MrBartusek/workflows/README%20build/badge.svg" />
 </p>
