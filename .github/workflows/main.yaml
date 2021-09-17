@@ -39,5 +39,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          MAX_LINES: 8
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
