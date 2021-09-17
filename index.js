@@ -54,6 +54,7 @@ function getTechnologies()
       "eslint",
       "git",
       "visualstudiocode",
+      "wakatime",
       "discord",
       "homeassistant",
       "vivaldi",
