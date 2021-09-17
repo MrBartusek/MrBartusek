@@ -1,7 +1,9 @@
 name: README build
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 */3 * * *'
 
@@ -26,9 +28,18 @@ jobs:
         run: node index.js
         env:
           GITHUB_PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Add activity and commit
-        uses: jamesgeorge007/github-activity-readme@master
-        with:
-          COMMIT_MSG: ":zap: Update README"
+      - name: Push new README
+        uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: main
+
+  activity:
+    needs: build
+    runs-on: ubuntu-latest
+    name: Update with recent activity
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
