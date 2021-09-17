@@ -55,7 +55,6 @@ function getTechnologies()
       "git",
       "visualstudiocode",
       "discord",
-      "premid",
       "homeassistant",
       "vivaldi",
       "arduino",
