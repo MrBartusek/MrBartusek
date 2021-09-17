@@ -28,8 +28,8 @@ jobs:
         run: node index.js
         env:
           GITHUB_PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Push new README
-        uses: mikeal/publish-to-github-action@master
+      - name: Add activity and commit
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: main
+          COMMIT_MSG: ⚡ Update README

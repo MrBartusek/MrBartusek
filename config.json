@@ -1,24 +1,9 @@
 {
-   "open_source_projects": [
-      {
-         "github": "MrBartusek/MeteoalarmCard",
-         "name": "MeteoalarmCard",
-         "description": "Card for Home Assistant"
-      },
-      {
-         "github": "ReplacementBot/ReplacementBot",
-         "name": "ReplacementBot",
-         "description": "School Substitutions Discord Bot"
-      },
-      {
-         "github": "MrBartusek/CargoCars",
-         "name": "CargoCars",
-         "description": "GTV5 Cargo Cars React App"
-      },
-      {
-         "github": "MrBartusek/corkus.py",
-         "name": "corkus.py",
-         "description": "Wynncraft API Wrapper"
-      }
+   "projects": [
+      "MrBartusek/MeteoalarmCard",
+      "ReplacementBot/ReplacementBot",
+      "MrBartusek/CargoCars",
+      "MrBartusek/corkus.py",
+      "MrBartusek/TechnologyShields"
    ]
 }

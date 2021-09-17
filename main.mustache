@@ -1,85 +1,24 @@
-<h1>Hey, I'm MrBartusek</h1>
+## Hey there 👋 I'm MrBartusek</h2>
 
-<p>I'm a hobbyist developer from Poland. Currently working on couple of my projects and contribute to open source in my free time.</p>
+I'm a {{age}} years old developer from Poland. Making stuff that some folks like it
+seams. I also own [dokurno.dev](https://dokurno.dev/) so that's cool.
 
-<h3>My Projects</h3>
-<p>This list contains all of my featured open-source projects.</p>
-<table>
-	<thead align="center">
-		<tr border: none;>
-		<td><b>🔥 Project</b></td>
-		<td><b>⭐ Stars</b></td>
-		<td><b>📚 Forks</b></td>
-		<td><b>🛎 Issues</b></td>
-		<td><b>📬 Pull requests</b></td>
-	</tr>
-	</thead>
-	<tbody>
-	{{#open_source_projects}}
-	  <tr>
-			<td><a href="https://github.com/{{github}}"><b>{{name}}</b></a> - {{description}}</td>
-			<td>
-				<a href="https://github.com/{{github}}/stargazers">
-					<img alt="Stars" src="https://img.shields.io/github/stars/{{github}}?style=flat-square&labelColor=343b41"/>
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/{{github}}/network/members">
-					<img alt="Forks" src="https://img.shields.io/github/forks/{{github}}?style=flat-square&labelColor=343b41"/>
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/{{github}}/issues?q=is:issue+sort:updated-desc+is:open">
-					<img alt="Issues" src="https://img.shields.io/github/issues/{{github}}?style=flat-square&labelColor=343b41"/>
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/{{github}}/pulls?q=is:pr+is:open+sort:updated-desc">
-					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{github}}?style=flat-square&labelColor=343b41"/>
-				</a>
-			</td>
-		</tr>
-	{{/open_source_projects}}
-	</tbody>
-</table>
+### Stuff I use
 
-<h3>Open Source Contributions</h3>
-<p>
-	I have contributed to <b>{{total_projects}} Open Source Projects</b>. 
-	Opening <b>{{total_issues}} Issues</b> and <b>{{total_pull_requests}} Pull Requests</b>.<br>
-	This section lists the most important ones.<br>
-	<a href="https://github.com/issues?q=is%3Aissue+author%3AMrBartusek">See all Issues</a> | <a href="https://github.com/pulls?q=is%3Apr+author%3AMrBartusek">See all Pull Requests</a>
-<table>
-	<thead align="center">
-		<tr border: none;>
-		<td><b>🔥 Project</b></td>
-		<td><b>📬 Pull requests</b></td>
-		<td><b>🛎 Issues</b></td>
-	</tr>
-	</thead>
-	<tbody>
-	{{#open_source_contributions}}
-	  <tr>
-			<td><a href="https://github.com/{{name}}"><b>{{name}}</b></a></td>
-			<td align="center">
-				<a href="https://github.com/{{name}}/pulls?q=is:pr+sort:updated-desc+author:MrBartusek">
-					<img alt="Pull Requests" src="https://img.shields.io/badge/pull%20requests-{{pull_requests}}-blueviolet?style=flat-square&labelColor=343b41"/>
-				</a>
-			</td>
-			<td align="center">
-				<a href="https://github.com/{{name}}/issues?q=is:issue+sort:updated-desc+author:MrBartusek">
-					<img alt="Issues" src="https://img.shields.io/badge/issues-{{issues}}-blue?style=flat-square&labelColor=343b41"/>
-				</a>
-			</td>
-		</tr>
-	{{/open_source_contributions}}
-	</tbody>
-</table>
+{{technologies}}
 
-------------
-<p align="center">
-	This <i>README</i> is automaticly generated <b>every 3 hours</b>!<br>
-	Last refresh: <b>{{refresh_date}}</b><br>
-	Based on <a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert's</a> and couple others READMEs.<br><br>
-	<img alt="build" src="https://github.com/MrBartusek/MrBartusek/workflows/README%20build/badge.svg" />
-</p>
+### Stuff I made
+
+{{#projects}}
+- **[{{name}}]({{url}})** {{description}}
+{{/projects}}
+
+### Github Stats
+![stats](https://github-readme-stats.vercel.app/api?username=MrBartusek&count_private=true&show_icons=true&theme=react)
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+*This README was built using [mustache.js](https://github.com/janl/mustache.js) and [TechnologyShields](https://github.com/MrBartusek/TechnologyShields)*

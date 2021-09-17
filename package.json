@@ -18,6 +18,7 @@
   "homepage": "https://github.com/MrBartusek/MrBartusek#readme",
   "dependencies": {
     "mustache": "^4.0.1",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "technology-shields": "^1.0.0"
   }
 }
