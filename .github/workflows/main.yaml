@@ -28,6 +28,7 @@ jobs:
           GITHUB_PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Add activity and commit
         uses: jamesgeorge007/github-activity-readme@master
+        with:
+          COMMIT_MSG: :zap: Update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MSG: ⚡ Update README
