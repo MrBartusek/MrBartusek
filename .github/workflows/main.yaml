@@ -33,6 +33,7 @@ jobs:
           BRANCH_NAME: main
   wait:
     needs: build
+    runs-on: ubuntu-latest
     name: "Wait for Github to process update commit"
     steps:
       - name: Sleep for 30 seconds
