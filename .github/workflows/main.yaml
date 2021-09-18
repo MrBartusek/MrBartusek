@@ -26,20 +26,13 @@ jobs:
         run: node index.js
         env:
           GITHUB_PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Push new README
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: main
-
-  activity:
-    needs: build
-    runs-on: ubuntu-latest
-    name: Update with recent activity
-    steps:
-      - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         with:
           MAX_LINES: 8
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push new README
+        uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: main
