@@ -34,9 +34,10 @@ jobs:
   wait:
     needs: build
     name: "Wait for Github to process update commit"
-    - name: Sleep for 30 seconds
-      run: sleep 30s
-      shell: bash
+    steps:
+      - name: Sleep for 30 seconds
+        run: sleep 30s
+        shell: bash
 
   activity:
     needs: wait
