@@ -4,6 +4,7 @@ const fs = require('fs');
 const fetch = require('node-fetch');
 const technologyShields = require('technology-shields')
 const MUSTACHE_MAIN_DIR = './main.mustache';
+const readmeActivityFeed = require("readme-activity-feed")
 
 async function getProjects(config)
 {
@@ -83,7 +84,8 @@ async function main()
    const fields = {
       projects: await getProjects(config),
       technologies: getTechnologies(),
-      age: calculateAge()
+      age: calculateAge(),
+      activity: await readmeActivityFeed.generate('MrBartusek')
    }
 
    console.log('Generating template...')

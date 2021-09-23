@@ -19,6 +19,7 @@
   "dependencies": {
     "mustache": "^4.0.1",
     "node-fetch": "^2.6.1",
+    "readme-activity-feed": "^1.1.0",
     "technology-shields": "^1.0.1"
   }
 }
