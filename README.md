@@ -22,8 +22,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+🗣 Commented on [#190](https://github.com/PreMiD/Extension/pull/190) in [PreMiD/Extension](https://github.com/PreMiD/Extension)<br>
+💪 Opened PR [#190](https://github.com/PreMiD/Extension/pull/190) in [PreMiD/Extension](https://github.com/PreMiD/Extension)<br>
 ❗️ Closed [#2223](https://github.com/hacs/integration/issues/2223) in [hacs/integration](https://github.com/hacs/integration)<br>
 🗣 Commented on [#2223](https://github.com/hacs/integration/issues/2223) in [hacs/integration](https://github.com/hacs/integration)<br>
-🔀 Forked [PreMiD/Extension](https://github.com/PreMiD/Extension)<br>
-❗️ Opened [#2223](https://github.com/hacs/integration/issues/2223) in [hacs/integration](https://github.com/hacs/integration)<br>
-🔀 Forked [hacs/action](https://github.com/hacs/action)
+🔀 Forked [PreMiD/Extension](https://github.com/PreMiD/Extension)
