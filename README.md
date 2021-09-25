@@ -22,8 +22,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+❗️ Closed [#2223](https://github.com/hacs/integration/issues/2223) in [hacs/integration](https://github.com/hacs/integration)<br>
+🗣 Commented on [#2223](https://github.com/hacs/integration/issues/2223) in [hacs/integration](https://github.com/hacs/integration)<br>
+🔀 Forked [PreMiD/Extension](https://github.com/PreMiD/Extension)<br>
 ❗️ Opened [#2223](https://github.com/hacs/integration/issues/2223) in [hacs/integration](https://github.com/hacs/integration)<br>
-🔀 Forked [hacs/action](https://github.com/hacs/action)<br>
-🏷️ Published [v1.10.3](https://github.com/MrBartusek/MeteoalarmCard/releases/tag/v1.10.3) of [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🏷️ Published [v1.0.0](https://github.com/MrBartusek/corkus.py/releases/tag/v1.0.0) of [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)<br>
-🏷️ Published [v1.1.0](https://github.com/MrBartusek/ReadmeActivityFeed/releases/tag/v1.1.0) of [MrBartusek/ReadmeActivityFeed](https://github.com/MrBartusek/ReadmeActivityFeed)
+🔀 Forked [hacs/action](https://github.com/hacs/action)
