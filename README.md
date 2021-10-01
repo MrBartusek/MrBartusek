@@ -22,8 +22,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+❌ Closed PR [#50](https://github.com/MrBartusek/MeteoalarmCard/pull/50) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+❌ Closed PR [#51](https://github.com/MrBartusek/MeteoalarmCard/pull/51) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#190](https://github.com/PreMiD/Extension/pull/190) in [PreMiD/Extension](https://github.com/PreMiD/Extension)<br>
 💪 Opened PR [#190](https://github.com/PreMiD/Extension/pull/190) in [PreMiD/Extension](https://github.com/PreMiD/Extension)<br>
-❗️ Closed [#2223](https://github.com/hacs/integration/issues/2223) in [hacs/integration](https://github.com/hacs/integration)<br>
-🗣 Commented on [#2223](https://github.com/hacs/integration/issues/2223) in [hacs/integration](https://github.com/hacs/integration)<br>
-🔀 Forked [PreMiD/Extension](https://github.com/PreMiD/Extension)
+❗️ Closed [#2223](https://github.com/hacs/integration/issues/2223) in [hacs/integration](https://github.com/hacs/integration)
