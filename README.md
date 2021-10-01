@@ -22,8 +22,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+🗣 Commented on [#4316](https://github.com/PreMiD/Presences/issues/4316) in [PreMiD/Presences](https://github.com/PreMiD/Presences)<br>
+🗣 Commented on [#4225](https://github.com/PreMiD/Presences/issues/4225) in [PreMiD/Presences](https://github.com/PreMiD/Presences)<br>
+💪 Opened PR [#4694](https://github.com/PreMiD/Presences/pull/4694) in [PreMiD/Presences](https://github.com/PreMiD/Presences)<br>
 ❗️ Opened [#13054](https://github.com/desktop/desktop/issues/13054) in [desktop/desktop](https://github.com/desktop/desktop)<br>
-🔀 Forked [desktop/desktop](https://github.com/desktop/desktop)<br>
-🏷️ Published [v1.1.1](https://github.com/MrBartusek/ReadmeActivityFeed/releases/tag/v1.1.1) of [MrBartusek/ReadmeActivityFeed](https://github.com/MrBartusek/ReadmeActivityFeed)<br>
-🏷️ Published [v1.10.4](https://github.com/MrBartusek/MeteoalarmCard/releases/tag/v1.10.4) of [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🎉 Merged PR [#50](https://github.com/MrBartusek/MeteoalarmCard/pull/50) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+🔀 Forked [desktop/desktop](https://github.com/desktop/desktop)
