@@ -4,7 +4,7 @@
   "description": "mrbartusek-readme",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
   "dependencies": {
     "mustache": "^4.0.1",
     "node-fetch": "^2.6.1",
-    "readme-activity-feed": "^1.1.0",
+    "readme-activity-feed": "^1.1.1",
     "technology-shields": "^1.0.1"
   }
 }
