@@ -22,8 +22,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+🎉 Merged PR [#52](https://github.com/MrBartusek/MeteoalarmCard/pull/52) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 💪 Opened PR [#4853](https://github.com/sindresorhus/refined-github/pull/4853) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)<br>
 💪 Opened PR [#4851](https://github.com/sindresorhus/refined-github/pull/4851) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)<br>
 💪 Opened PR [#4848](https://github.com/sindresorhus/refined-github/pull/4848) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)<br>
-❌ Closed PR [#1](https://github.com/MrBartusek/desktop/pull/1) in [MrBartusek/desktop](https://github.com/MrBartusek/desktop)<br>
-🔀 Forked [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)
+❌ Closed PR [#1](https://github.com/MrBartusek/desktop/pull/1) in [MrBartusek/desktop](https://github.com/MrBartusek/desktop)
