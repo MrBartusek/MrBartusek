@@ -49,6 +49,7 @@ function getTechnologies()
       // WEB
       "html5",
       "react",
+      "bootstrap",
 
       // OTHER
       "githubactions",
