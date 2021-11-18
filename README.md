@@ -14,6 +14,7 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 - **[ReplacementBot](https:&#x2F;&#x2F;github.com&#x2F;ReplacementBot&#x2F;ReplacementBot)** Powerful School Subsitutions bot for your Discord Server 📅
 - **[corkus.py](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;corkus.py)** Asynchronous, feature-rich and easy to use Python wrapper for Public Wynncraft API ⚙️
 - **[CargoCars](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;CargoCars)** Web app to make cargo cars business in GTA V online easier 🚗
+- **[GithubLive](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;GithubLive)** Simple web application displaying current Github events as they are happening :octocat: 
 - **[ReadmeActivityFeed](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;ReadmeActivityFeed)** Simple NPM package for generating list of recent Github activity of a user to put in your profile README ⚡
 - **[TechnologyShields](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;TechnologyShields)** Simple NPM package for generating shields.io URLs from Simple Icons 📄
 
@@ -22,8 +23,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+🎉 Merged PR [#60](https://github.com/MrBartusek/MeteoalarmCard/pull/60) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+🗣 Commented on [#60](https://github.com/MrBartusek/MeteoalarmCard/pull/60) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#60](https://github.com/MrBartusek/MeteoalarmCard/pull/60) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🎉 Merged PR [#61](https://github.com/MrBartusek/MeteoalarmCard/pull/61) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#61](https://github.com/MrBartusek/MeteoalarmCard/pull/61) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#61](https://github.com/MrBartusek/MeteoalarmCard/pull/61) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🎉 Published [MrBartusek/GithubLive](https://github.com/MrBartusek/GithubLive)
+🗣 Commented on [#61](https://github.com/MrBartusek/MeteoalarmCard/pull/61) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
