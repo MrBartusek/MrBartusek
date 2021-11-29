@@ -23,8 +23,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
-🏷️ Published [v1.12.1](https://github.com/MrBartusek/MeteoalarmCard/releases/tag/v1.12.1) of [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-💪 Opened PR [#295](https://github.com/denysdovhan/vacuum-card/pull/295) in [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card)<br>
-💪 Opened PR [#294](https://github.com/denysdovhan/vacuum-card/pull/294) in [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card)<br>
-🎉 Merged PR [#60](https://github.com/MrBartusek/MeteoalarmCard/pull/60) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#60](https://github.com/MrBartusek/MeteoalarmCard/pull/60) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+🎉 Merged PR [#11](https://github.com/MrBartusek/corkus.py/pull/11) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)<br>
+💪 Opened PR [#11](https://github.com/MrBartusek/corkus.py/pull/11) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)<br>
+❌ Closed PR [#10](https://github.com/MrBartusek/corkus.py/pull/10) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)<br>
+🗣 Commented on [#10](https://github.com/MrBartusek/corkus.py/pull/10) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)<br>
+🏷️ Published [v1.12.1](https://github.com/MrBartusek/MeteoalarmCard/releases/tag/v1.12.1) of [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
