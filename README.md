@@ -24,7 +24,7 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 ### ⚡ Recent Activity
 
 🗣 Commented on [#63](https://github.com/MrBartusek/MeteoalarmCard/pull/63) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+🗣 Commented on [#63](https://github.com/MrBartusek/MeteoalarmCard/pull/63) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🎉 Merged PR [#63](https://github.com/MrBartusek/MeteoalarmCard/pull/63) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#63](https://github.com/MrBartusek/MeteoalarmCard/pull/63) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Closed [#56](https://github.com/MrBartusek/MeteoalarmCard/issues/56) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#56](https://github.com/MrBartusek/MeteoalarmCard/issues/56) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+❗️ Closed [#56](https://github.com/MrBartusek/MeteoalarmCard/issues/56) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
