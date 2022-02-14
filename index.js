@@ -68,9 +68,14 @@ function getTechnologies()
 function calculateAge()
 {
    // 🎂
-   var ageDifMs = Date.now() - new Date(2003, 2, 14).getTime();
-   var ageDate = new Date(ageDifMs);
-   return Math.abs(ageDate.getUTCFullYear() - 1970);
+   const today = new Date();
+   const birthDate = new Date(2003, 1, 14);
+   let age = today.getFullYear() - birthDate.getFullYear();
+   const m = today.getMonth() - birthDate.getMonth();
+   if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
+      age--;
+   }
+   return age;
 }
 
 async function callApi(endpoint)
