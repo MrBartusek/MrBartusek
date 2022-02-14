@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm MrBartusek
 
-I'm a 18 years old developer from Poland. Making stuff that some folks like it
+I'm a 19 years old developer from Poland. Making stuff that some folks like it
 seams. This Readme uses two libiares that I made:  [TechnologyShields](https://github.com/MrBartusek/TechnologyShields) and
 [ReadmeActivityFeed](https://github.com/MrBartusek/ReadmeActivityFeed). I also own [dokurno.dev](https://dokurno.dev/) so that's cool.
 
