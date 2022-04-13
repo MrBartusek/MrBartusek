@@ -36,6 +36,7 @@ function getTechnologies()
       // PYTHON
       "python",
       "pypi",
+      "django",
       "readthedocs",
 
       // DATABASE
