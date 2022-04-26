@@ -23,8 +23,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+🔀 Forked [custom-cards/boilerplate-card](https://github.com/custom-cards/boilerplate-card)<br>
 ❗️ Opened [#83](https://github.com/MrBartusek/MeteoalarmCard/issues/83) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🔀 Forked [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)<br>
 ❗️ Opened [#82](https://github.com/MrBartusek/MeteoalarmCard/issues/82) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Opened [#81](https://github.com/MrBartusek/MeteoalarmCard/issues/81) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-💪 Opened PR [#17096](https://github.com/github/docs/pull/17096) in [github/docs](https://github.com/github/docs)
+❗️ Opened [#81](https://github.com/MrBartusek/MeteoalarmCard/issues/81) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
