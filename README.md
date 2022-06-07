@@ -23,8 +23,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+❗️ Opened [#66](https://github.com/Wynncraft/WynncraftAPI/issues/66) in [Wynncraft/WynncraftAPI](https://github.com/Wynncraft/WynncraftAPI)<br>
 ❗️ Closed [#81](https://github.com/MrBartusek/MeteoalarmCard/issues/81) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#81](https://github.com/MrBartusek/MeteoalarmCard/issues/81) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❗️ Opened [#84](https://github.com/MrBartusek/MeteoalarmCard/issues/84) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🔀 Forked [custom-cards/boilerplate-card](https://github.com/custom-cards/boilerplate-card)<br>
-❗️ Opened [#83](https://github.com/MrBartusek/MeteoalarmCard/issues/83) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+🔀 Forked [custom-cards/boilerplate-card](https://github.com/custom-cards/boilerplate-card)
