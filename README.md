@@ -23,8 +23,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+🗣 Commented on [#83](https://github.com/MrBartusek/MeteoalarmCard/issues/83) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+❗️ Reopened [#83](https://github.com/MrBartusek/MeteoalarmCard/issues/83) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🎉 Merged PR [#85](https://github.com/MrBartusek/MeteoalarmCard/pull/85) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❗️ Closed [#83](https://github.com/MrBartusek/MeteoalarmCard/issues/83) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🎉 Merged PR [#8](https://github.com/MrBartusek/corkus.py/pull/8) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)<br>
-❗️ Opened [#66](https://github.com/Wynncraft/WynncraftAPI/issues/66) in [Wynncraft/WynncraftAPI](https://github.com/Wynncraft/WynncraftAPI)<br>
-❗️ Closed [#81](https://github.com/MrBartusek/MeteoalarmCard/issues/81) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+🎉 Merged PR [#8](https://github.com/MrBartusek/corkus.py/pull/8) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)
