@@ -23,8 +23,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+❗️ Opened [#2754](https://github.com/hacs/integration/issues/2754) in [hacs/integration](https://github.com/hacs/integration)<br>
 🗣 Commented on [#88](https://github.com/MrBartusek/MeteoalarmCard/issues/88) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#88](https://github.com/MrBartusek/MeteoalarmCard/issues/88) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#6](https://github.com/TheDrone7/shieldbow/issues/6) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-🗣 Commented on [#6](https://github.com/TheDrone7/shieldbow/issues/6) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-❗️ Opened [#6](https://github.com/TheDrone7/shieldbow/issues/6) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
+🗣 Commented on [#6](https://github.com/TheDrone7/shieldbow/issues/6) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
