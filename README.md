@@ -10,7 +10,7 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### Stuff I made
 
-- **[MeteoalarmCard](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;MeteoalarmCard)** Meteoalarm, Météo-France and DWD weather warnings card for Home Assistant Lovelace UI ⛈️
+- **[MeteoalarmCard](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;MeteoalarmCard)** Meteoalarm, Météo-France and DWD severe weather warnings card for Home Assistant Lovelace UI ⛈️
 - **[CargoCars](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;CargoCars)** Web app to make cargo cars business in GTA V online easier 🚗
 - **[ReplacementBot](https:&#x2F;&#x2F;github.com&#x2F;ReplacementBot&#x2F;ReplacementBot)** Powerful School Subsitutions bot for your Discord Server 📅
 - **[corkus.py](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;corkus.py)** Asynchronous, feature-rich and easy to use Python wrapper for Public Wynncraft API ⚙️
@@ -23,8 +23,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+💪 Opened PR [#92](https://github.com/sharetheloveio/sharethelove.io/pull/92) in [sharetheloveio/sharethelove.io](https://github.com/sharetheloveio/sharethelove.io)<br>
+🔀 Forked [sharetheloveio/sharethelove.io](https://github.com/sharetheloveio/sharethelove.io)<br>
 ❌ Closed PR [#95](https://github.com/MrBartusek/MeteoalarmCard/pull/95) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 💪 Opened PR [#95](https://github.com/MrBartusek/MeteoalarmCard/pull/95) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Opened [#94](https://github.com/MrBartusek/MeteoalarmCard/issues/94) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Closed [#93](https://github.com/MrBartusek/MeteoalarmCard/issues/93) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#93](https://github.com/MrBartusek/MeteoalarmCard/issues/93) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+❗️ Opened [#94](https://github.com/MrBartusek/MeteoalarmCard/issues/94) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
