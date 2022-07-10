@@ -23,8 +23,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+❌ Closed PR [#92](https://github.com/sharetheloveio/sharethelove.io/pull/92) in [sharetheloveio/sharethelove.io](https://github.com/sharetheloveio/sharethelove.io)<br>
+🗣 Commented on [#92](https://github.com/sharetheloveio/sharethelove.io/pull/92) in [sharetheloveio/sharethelove.io](https://github.com/sharetheloveio/sharethelove.io)<br>
 💪 Opened PR [#92](https://github.com/sharetheloveio/sharethelove.io/pull/92) in [sharetheloveio/sharethelove.io](https://github.com/sharetheloveio/sharethelove.io)<br>
 🔀 Forked [sharetheloveio/sharethelove.io](https://github.com/sharetheloveio/sharethelove.io)<br>
-❌ Closed PR [#95](https://github.com/MrBartusek/MeteoalarmCard/pull/95) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-💪 Opened PR [#95](https://github.com/MrBartusek/MeteoalarmCard/pull/95) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Opened [#94](https://github.com/MrBartusek/MeteoalarmCard/issues/94) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+❌ Closed PR [#95](https://github.com/MrBartusek/MeteoalarmCard/pull/95) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
