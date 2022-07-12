@@ -23,8 +23,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+❗️ Opened [#2](https://github.com/MrBartusek/ClashCalendar/issues/2) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)<br>
 🎉 Merged PR [#1](https://github.com/MrBartusek/ClashCalendar/pull/1) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)<br>
 ❌ Closed PR [#92](https://github.com/sharetheloveio/sharethelove.io/pull/92) in [sharetheloveio/sharethelove.io](https://github.com/sharetheloveio/sharethelove.io)<br>
 🗣 Commented on [#92](https://github.com/sharetheloveio/sharethelove.io/pull/92) in [sharetheloveio/sharethelove.io](https://github.com/sharetheloveio/sharethelove.io)<br>
-💪 Opened PR [#92](https://github.com/sharetheloveio/sharethelove.io/pull/92) in [sharetheloveio/sharethelove.io](https://github.com/sharetheloveio/sharethelove.io)<br>
-🔀 Forked [sharetheloveio/sharethelove.io](https://github.com/sharetheloveio/sharethelove.io)
+💪 Opened PR [#92](https://github.com/sharetheloveio/sharethelove.io/pull/92) in [sharetheloveio/sharethelove.io](https://github.com/sharetheloveio/sharethelove.io)
