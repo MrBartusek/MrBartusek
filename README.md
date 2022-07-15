@@ -23,8 +23,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+🎉 Merged PR [#97](https://github.com/MrBartusek/MeteoalarmCard/pull/97) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#97](https://github.com/MrBartusek/MeteoalarmCard/pull/97) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#96](https://github.com/MrBartusek/MeteoalarmCard/pull/96) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🎉 Merged PR [#96](https://github.com/MrBartusek/MeteoalarmCard/pull/96) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Opened [#2](https://github.com/MrBartusek/ClashCalendar/issues/2) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)<br>
-🎉 Merged PR [#1](https://github.com/MrBartusek/ClashCalendar/pull/1) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)
+❌ Closed PR [#92](https://github.com/sharetheloveio/sharethelove.io/pull/92) in [sharetheloveio/sharethelove.io](https://github.com/sharetheloveio/sharethelove.io)
