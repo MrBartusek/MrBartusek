@@ -24,8 +24,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+❗️ Closed [#4](https://github.com/MrBartusek/ClashCalendar/issues/4) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)<br>
 ❗️ Opened [#5](https://github.com/MrBartusek/ClashCalendar/issues/5) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)<br>
 💪 Opened PR [#106](https://github.com/MrBartusek/MeteoalarmCard/pull/106) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#91](https://github.com/MrBartusek/MeteoalarmCard/issues/91) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Opened [#4](https://github.com/MrBartusek/ClashCalendar/issues/4) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)<br>
-💪 Opened PR [#105](https://github.com/MrBartusek/MeteoalarmCard/pull/105) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+❗️ Opened [#4](https://github.com/MrBartusek/ClashCalendar/issues/4) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)
