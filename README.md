@@ -24,8 +24,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+🔀 Forked [home-assistant/developers.home-assistant](https://github.com/home-assistant/developers.home-assistant)<br>
 ❗️ Closed [#103](https://github.com/MrBartusek/MeteoalarmCard/issues/103) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❗️ Closed [#5](https://github.com/MrBartusek/ClashCalendar/issues/5) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)<br>
 ❗️ Closed [#4](https://github.com/MrBartusek/ClashCalendar/issues/4) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)<br>
-❗️ Opened [#5](https://github.com/MrBartusek/ClashCalendar/issues/5) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)<br>
-💪 Opened PR [#106](https://github.com/MrBartusek/MeteoalarmCard/pull/106) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+❗️ Opened [#5](https://github.com/MrBartusek/ClashCalendar/issues/5) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)
