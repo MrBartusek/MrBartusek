@@ -24,8 +24,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+💪 Opened PR [#16](https://github.com/TheDrone7/shieldbow/pull/16) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
 🗣 Commented on [#14](https://github.com/TheDrone7/shieldbow/pull/14) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
 🗣 Commented on [#14](https://github.com/TheDrone7/shieldbow/pull/14) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
 ❗️ Opened [#15](https://github.com/TheDrone7/shieldbow/issues/15) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-💪 Opened PR [#14](https://github.com/TheDrone7/shieldbow/pull/14) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-💪 Opened PR [#13](https://github.com/TheDrone7/shieldbow/pull/13) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
+💪 Opened PR [#14](https://github.com/TheDrone7/shieldbow/pull/14) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
