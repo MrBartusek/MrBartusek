@@ -24,8 +24,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
-💪 Opened PR [#10](https://github.com/TheDrone7/shieldbow/pull/10) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-🔀 Forked [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-🗣 Commented on [#7](https://github.com/TheDrone7/shieldbow/issues/7) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-🔀 Forked [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)<br>
-💪 Opened PR [#1418](https://github.com/home-assistant/developers.home-assistant/pull/1418) in [home-assistant/developers.home-assistant](https://github.com/home-assistant/developers.home-assistant)
+💪 Opened PR [#14](https://github.com/TheDrone7/shieldbow/pull/14) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
+💪 Opened PR [#13](https://github.com/TheDrone7/shieldbow/pull/13) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
+💪 Opened PR [#12](https://github.com/TheDrone7/shieldbow/pull/12) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
+💪 Opened PR [#11](https://github.com/TheDrone7/shieldbow/pull/11) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
+💪 Opened PR [#10](https://github.com/TheDrone7/shieldbow/pull/10) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
