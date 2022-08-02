@@ -24,8 +24,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+🗣 Commented on [#1418](https://github.com/home-assistant/developers.home-assistant/pull/1418) in [home-assistant/developers.home-assistant](https://github.com/home-assistant/developers.home-assistant)<br>
+🗣 Commented on [#1418](https://github.com/home-assistant/developers.home-assistant/pull/1418) in [home-assistant/developers.home-assistant](https://github.com/home-assistant/developers.home-assistant)<br>
 💪 Opened PR [#16](https://github.com/TheDrone7/shieldbow/pull/16) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
 🗣 Commented on [#14](https://github.com/TheDrone7/shieldbow/pull/14) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-🗣 Commented on [#14](https://github.com/TheDrone7/shieldbow/pull/14) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-❗️ Opened [#15](https://github.com/TheDrone7/shieldbow/issues/15) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-💪 Opened PR [#14](https://github.com/TheDrone7/shieldbow/pull/14) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
+🗣 Commented on [#14](https://github.com/TheDrone7/shieldbow/pull/14) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
