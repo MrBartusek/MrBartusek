@@ -24,8 +24,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+🗣 Commented on [#14](https://github.com/TheDrone7/shieldbow/pull/14) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
+🗣 Commented on [#14](https://github.com/TheDrone7/shieldbow/pull/14) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
+❗️ Opened [#15](https://github.com/TheDrone7/shieldbow/issues/15) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
 💪 Opened PR [#14](https://github.com/TheDrone7/shieldbow/pull/14) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-💪 Opened PR [#13](https://github.com/TheDrone7/shieldbow/pull/13) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-💪 Opened PR [#12](https://github.com/TheDrone7/shieldbow/pull/12) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-💪 Opened PR [#11](https://github.com/TheDrone7/shieldbow/pull/11) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-💪 Opened PR [#10](https://github.com/TheDrone7/shieldbow/pull/10) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
+💪 Opened PR [#13](https://github.com/TheDrone7/shieldbow/pull/13) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
