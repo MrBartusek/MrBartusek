@@ -24,8 +24,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+🏷️ Published [v2.1.0](https://github.com/MrBartusek/MeteoalarmCard/releases/tag/v2.1.0) of [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+❗️ Closed [#91](https://github.com/MrBartusek/MeteoalarmCard/issues/91) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+🎉 Merged PR [#106](https://github.com/MrBartusek/MeteoalarmCard/pull/106) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 💪 Opened PR [#22](https://github.com/TheDrone7/shieldbow/pull/22) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-💪 Opened PR [#21](https://github.com/TheDrone7/shieldbow/pull/21) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-🗣 Commented on [#20](https://github.com/TheDrone7/shieldbow/pull/20) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-💪 Opened PR [#20](https://github.com/TheDrone7/shieldbow/pull/20) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-🗣 Commented on [#19](https://github.com/TheDrone7/shieldbow/pull/19) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
+💪 Opened PR [#21](https://github.com/TheDrone7/shieldbow/pull/21) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
