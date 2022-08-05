@@ -15,9 +15,9 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 - **[ReplacementBot](https:&#x2F;&#x2F;github.com&#x2F;ReplacementBot&#x2F;ReplacementBot)** Powerful School Subsitutions bot for your Discord Server 📅
 - **[ReadmeActivityFeed](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;ReadmeActivityFeed)** Simple NPM package for generating list of recent Github activity of a user to put in your profile README ⚡
 - **[corkus.py](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;corkus.py)** Asynchronous, feature-rich and easy to use Python wrapper for Public Wynncraft API ⚙️
-- **[ClashCalendar](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;ClashCalendar)** Easy to use website that integrates League Of Legends clashes into Google Calendar 📅
 - **[GithubLive](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;GithubLive)** Simple web application displaying current Github events as they are happening :octocat: 
 - **[TechnologyShields](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;TechnologyShields)** Simple NPM package for generating shields.io URLs from Simple Icons 📄
+- **[ClashCalendar](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;ClashCalendar)** Easy to use website that integrates League Of Legends clashes into Google Calendar 📅
 
 ### Github Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=MrBartusek&count_private=true&show_icons=true&theme=react)
