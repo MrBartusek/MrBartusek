@@ -24,8 +24,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+💪 Opened PR [#7](https://github.com/home-assistant/.github/pull/7) in [home-assistant/.github](https://github.com/home-assistant/.github)<br>
+🔀 Forked [home-assistant/.github](https://github.com/home-assistant/.github)<br>
 🗣 Commented on [#25](https://github.com/TheDrone7/shieldbow/pull/25) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
 💪 Opened PR [#25](https://github.com/TheDrone7/shieldbow/pull/25) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-❗️ Opened [#24](https://github.com/TheDrone7/shieldbow/issues/24) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-❗️ Closed [#7](https://github.com/TheDrone7/shieldbow/issues/7) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-🗣 Commented on [#7](https://github.com/TheDrone7/shieldbow/issues/7) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
+❗️ Opened [#24](https://github.com/TheDrone7/shieldbow/issues/24) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
