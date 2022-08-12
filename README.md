@@ -24,8 +24,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
-❗️ Closed [#110](https://github.com/MrBartusek/MeteoalarmCard/issues/110) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#110](https://github.com/MrBartusek/MeteoalarmCard/issues/110) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Reopened [#103](https://github.com/MrBartusek/MeteoalarmCard/issues/103) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Closed [#109](https://github.com/MrBartusek/MeteoalarmCard/issues/109) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#109](https://github.com/MrBartusek/MeteoalarmCard/issues/109) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+❗️ Closed [#657](https://github.com/RiotGames/developer-relations/issues/657) in [RiotGames/developer-relations](https://github.com/RiotGames/developer-relations)<br>
+🗣 Commented on [#657](https://github.com/RiotGames/developer-relations/issues/657) in [RiotGames/developer-relations](https://github.com/RiotGames/developer-relations)<br>
+🗣 Commented on [#656](https://github.com/RiotGames/developer-relations/issues/656) in [RiotGames/developer-relations](https://github.com/RiotGames/developer-relations)<br>
+❗️ Closed [#3](https://github.com/MrBartusek/ClashCalendar/issues/3) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)<br>
+❗️ Closed [#110](https://github.com/MrBartusek/MeteoalarmCard/issues/110) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
