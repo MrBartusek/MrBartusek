@@ -24,8 +24,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+❗️ Opened [#26](https://github.com/TheDrone7/shieldbow/issues/26) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
 ❗️ Closed [#657](https://github.com/RiotGames/developer-relations/issues/657) in [RiotGames/developer-relations](https://github.com/RiotGames/developer-relations)<br>
 🗣 Commented on [#657](https://github.com/RiotGames/developer-relations/issues/657) in [RiotGames/developer-relations](https://github.com/RiotGames/developer-relations)<br>
 🗣 Commented on [#656](https://github.com/RiotGames/developer-relations/issues/656) in [RiotGames/developer-relations](https://github.com/RiotGames/developer-relations)<br>
-❗️ Closed [#3](https://github.com/MrBartusek/ClashCalendar/issues/3) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)<br>
-❗️ Closed [#110](https://github.com/MrBartusek/MeteoalarmCard/issues/110) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+❗️ Closed [#3](https://github.com/MrBartusek/ClashCalendar/issues/3) in [MrBartusek/ClashCalendar](https://github.com/MrBartusek/ClashCalendar)
