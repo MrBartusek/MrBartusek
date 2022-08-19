@@ -24,8 +24,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+🗣 Commented on [#114](https://github.com/MrBartusek/MeteoalarmCard/issues/114) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#104](https://github.com/MrBartusek/MeteoalarmCard/pull/104) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❌ Closed PR [#104](https://github.com/MrBartusek/MeteoalarmCard/pull/104) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❗️ Opened [#111](https://github.com/MrBartusek/MeteoalarmCard/issues/111) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#28](https://github.com/TheDrone7/shieldbow/pull/28) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)<br>
-💪 Opened PR [#28](https://github.com/TheDrone7/shieldbow/pull/28) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
+🗣 Commented on [#28](https://github.com/TheDrone7/shieldbow/pull/28) in [TheDrone7/shieldbow](https://github.com/TheDrone7/shieldbow)
