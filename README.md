@@ -24,8 +24,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+❗️ Opened [#10](https://github.com/covalence-io/barebones-react-typescript-express/issues/10) in [covalence-io/barebones-react-typescript-express](https://github.com/covalence-io/barebones-react-typescript-express)<br>
+💪 Opened PR [#9](https://github.com/covalence-io/barebones-react-typescript-express/pull/9) in [covalence-io/barebones-react-typescript-express](https://github.com/covalence-io/barebones-react-typescript-express)<br>
+🔀 Forked [covalence-io/barebones-react-typescript-express](https://github.com/covalence-io/barebones-react-typescript-express)<br>
 💪 Opened PR [#45](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/pull/45) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
-🔀 Forked [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
-🗣 Commented on [#119](https://github.com/MrBartusek/MeteoalarmCard/issues/119) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#119](https://github.com/MrBartusek/MeteoalarmCard/issues/119) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#118](https://github.com/MrBartusek/MeteoalarmCard/issues/118) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+🔀 Forked [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)
