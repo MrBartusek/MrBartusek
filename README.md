@@ -24,8 +24,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+💪 Opened PR [#45](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/pull/45) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
+🔀 Forked [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
 🗣 Commented on [#119](https://github.com/MrBartusek/MeteoalarmCard/issues/119) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#119](https://github.com/MrBartusek/MeteoalarmCard/issues/119) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#118](https://github.com/MrBartusek/MeteoalarmCard/issues/118) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#118](https://github.com/MrBartusek/MeteoalarmCard/issues/118) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#118](https://github.com/MrBartusek/MeteoalarmCard/issues/118) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
