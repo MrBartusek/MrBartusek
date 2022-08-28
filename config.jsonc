@@ -1,0 +1,53 @@
+{
+   "projects": [
+      "MrBartusek/MeteoalarmCard",
+      "ReplacementBot/ReplacementBot",
+      "MrBartusek/CargoCars",
+      "MrBartusek/corkus.py",
+      "MrBartusek/GithubLive",
+      "MrBartusek/ClashCalendar"
+   ],
+   "technologies": [
+      "typescript",
+      "javascript",
+      "nodedotjs",
+      "npm",
+      // PYTHON
+      "python",
+      "pypi",
+      "django",
+      "readthedocs",
+      // DATABASE
+      "sqlite",
+      "postgresql",
+      // HOSTING
+      "heroku",
+      "pm2",
+      // WEB
+      "html5",
+      "react",
+      "bootstrap",
+      "jquery",
+      "express",
+      "socketdotio",
+      // OTHER
+      "githubactions",
+      "eslint",
+      "git",
+      "visualstudiocode",
+      "wakatime",
+      "discord",
+      "homeassistant",
+      "arduino",
+      "raspberrypi"
+   ],
+   "pokemonList": [
+      "Charizard",
+      "Bulbasaur",
+      "Eevee",
+      "Squirtle",
+      "Snorlax",
+      "Umbreon",
+      "Pikachu"
+   ]
+}

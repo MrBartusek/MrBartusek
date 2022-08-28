@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MrBartusek/MrBartusek#readme",
   "dependencies": {
+    "comment-json": "^4.2.3",
     "mustache": "^4.0.1",
     "node-fetch": "^2.6.1",
     "readme-activity-feed": "^1.1.1",
