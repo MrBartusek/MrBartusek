@@ -24,8 +24,8 @@ seams. This Readme uses two libiares that I made:  [TechnologyShields](https://g
 
 ### ⚡ Recent Activity
 
+🗣 Commented on [#42](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/42) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
+💪 Opened PR [#46](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/pull/46) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
 ❗️ Opened [#10](https://github.com/covalence-io/barebones-react-typescript-express/issues/10) in [covalence-io/barebones-react-typescript-express](https://github.com/covalence-io/barebones-react-typescript-express)<br>
 💪 Opened PR [#9](https://github.com/covalence-io/barebones-react-typescript-express/pull/9) in [covalence-io/barebones-react-typescript-express](https://github.com/covalence-io/barebones-react-typescript-express)<br>
-🔀 Forked [covalence-io/barebones-react-typescript-express](https://github.com/covalence-io/barebones-react-typescript-express)<br>
-💪 Opened PR [#45](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/pull/45) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
-🔀 Forked [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)
+🔀 Forked [covalence-io/barebones-react-typescript-express](https://github.com/covalence-io/barebones-react-typescript-express)
