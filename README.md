@@ -27,8 +27,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+🗣 Commented on [#30](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/pull/30) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
+🗣 Commented on [#47](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/47) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
 🗣 Commented on [#47](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/47) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
 🗣 Commented on [#118](https://github.com/MrBartusek/MeteoalarmCard/issues/118) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#15](https://github.com/MrBartusek/corkus.py/issues/15) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)<br>
-🗣 Commented on [#14](https://github.com/MrBartusek/corkus.py/issues/14) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)<br>
-🗣 Commented on [#112](https://github.com/MrBartusek/MeteoalarmCard/issues/112) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+🗣 Commented on [#15](https://github.com/MrBartusek/corkus.py/issues/15) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)
