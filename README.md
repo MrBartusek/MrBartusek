@@ -27,8 +27,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+🗣 Commented on [#44](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/44) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
+🗣 Commented on [#53](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/53) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
 ❗️ Closed [#123](https://github.com/MrBartusek/MeteoalarmCard/issues/123) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#123](https://github.com/MrBartusek/MeteoalarmCard/issues/123) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Closed [#2](https://github.com/Auxority/galaxy-life-rpc/issues/2) in [Auxority/galaxy-life-rpc](https://github.com/Auxority/galaxy-life-rpc)<br>
-🗣 Commented on [#2](https://github.com/Auxority/galaxy-life-rpc/issues/2) in [Auxority/galaxy-life-rpc](https://github.com/Auxority/galaxy-life-rpc)<br>
-❗️ Opened [#2](https://github.com/Auxority/galaxy-life-rpc/issues/2) in [Auxority/galaxy-life-rpc](https://github.com/Auxority/galaxy-life-rpc)
+❗️ Closed [#2](https://github.com/Auxority/galaxy-life-rpc/issues/2) in [Auxority/galaxy-life-rpc](https://github.com/Auxority/galaxy-life-rpc)
