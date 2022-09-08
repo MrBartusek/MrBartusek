@@ -29,6 +29,6 @@ These are some of my open source projects
 
 🗣 Commented on [#54](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/54) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
 🗣 Commented on [#54](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/54) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
+🗣 Commented on [#54](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/54) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
 🗣 Commented on [#44](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/44) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
-🗣 Commented on [#53](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/53) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
-❗️ Closed [#123](https://github.com/MrBartusek/MeteoalarmCard/issues/123) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+🗣 Commented on [#53](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/53) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)
