@@ -15,7 +15,6 @@
       // PYTHON
       "python",
       "pypi",
-      "django",
       "readthedocs",
       // DATABASE
       "sqlite",
