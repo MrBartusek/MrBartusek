@@ -27,8 +27,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+🗣 Commented on [#68](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/68) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
 🗣 Commented on [#61](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/61) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
 ❗️ Opened [#63](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/63) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
 🗣 Commented on [#62](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/62) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
-🗣 Commented on [#62](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/62) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
-❗️ Opened [#59](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/59) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)
+🗣 Commented on [#62](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/62) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)
