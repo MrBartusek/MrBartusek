@@ -27,8 +27,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+❗️ Closed [#126](https://github.com/MrBartusek/MeteoalarmCard/issues/126) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+🗣 Commented on [#126](https://github.com/MrBartusek/MeteoalarmCard/issues/126) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🔀 Forked [animify/useCopy](https://github.com/animify/useCopy)<br>
 ❗️ Closed [#125](https://github.com/MrBartusek/MeteoalarmCard/issues/125) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#125](https://github.com/MrBartusek/MeteoalarmCard/issues/125) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#77](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/issues/77) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)<br>
-🗣 Commented on [#76](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/pull/76) in [LeagueOfPoro/EsportsCapsuleFarmer](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer)
+🗣 Commented on [#125](https://github.com/MrBartusek/MeteoalarmCard/issues/125) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
