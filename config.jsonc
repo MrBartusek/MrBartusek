@@ -22,7 +22,7 @@
       // HOSTING
       "heroku",
       "pm2",
-      "aws",
+      "amazonaws",
       // WEB
       "html5",
       "react",
