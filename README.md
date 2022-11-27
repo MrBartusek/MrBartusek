@@ -15,9 +15,9 @@ All of the shiny libraries, languages, technologies and platforms that i've any 
 These are some of my open source projects
 
 - **[MeteoalarmCard](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;MeteoalarmCard)** Meteoalarm, Météo-France and DWD severe weather warnings card for Home Assistant Lovelace UI ⛈️
+- **[ClashCalendar](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;ClashCalendar)** Easy to use website that integrates League Of Legends clashes into Google Calendar 📅
 - **[CargoCars](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;CargoCars)** Web app to make cargo cars business in GTA V online easier 🚗
 - **[ReplacementBot](https:&#x2F;&#x2F;github.com&#x2F;ReplacementBot&#x2F;ReplacementBot)** Powerful School Subsitutions bot for your Discord Server 📅
-- **[ClashCalendar](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;ClashCalendar)** Easy to use website that integrates League Of Legends clashes into Google Calendar 📅
 - **[corkus.py](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;corkus.py)** Asynchronous, feature-rich and easy to use Python wrapper for Public Wynncraft API ⚙️
 - **[GithubLive](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;GithubLive)** Simple web application displaying current Github events as they are happening :octocat: 
 
@@ -28,7 +28,7 @@ These are some of my open source projects
 ### ⚡ Recent Activity
 
 🗣 Commented on [#127](https://github.com/MrBartusek/MeteoalarmCard/issues/127) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+🗣 Commented on [#127](https://github.com/MrBartusek/MeteoalarmCard/issues/127) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❗️ Closed [#19](https://github.com/MrBartusek/DokChat/issues/19) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
 ❗️ Opened [#20](https://github.com/MrBartusek/DokChat/issues/20) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-❗️ Closed [#4](https://github.com/MrBartusek/DokChat/issues/4) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-❗️ Opened [#19](https://github.com/MrBartusek/DokChat/issues/19) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)
+❗️ Closed [#4](https://github.com/MrBartusek/DokChat/issues/4) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)
