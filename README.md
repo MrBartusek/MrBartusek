@@ -27,8 +27,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+🗣 Commented on [#14](https://github.com/MrBartusek/corkus.py/issues/14) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)<br>
 🎉 Merged PR [#130](https://github.com/MrBartusek/MeteoalarmCard/pull/130) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❗️ Opened [#19](https://github.com/MrBartusek/corkus.py/issues/19) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)<br>
 ❌ Closed PR [#18](https://github.com/MrBartusek/corkus.py/pull/18) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)<br>
-❌ Closed PR [#16](https://github.com/MrBartusek/corkus.py/pull/16) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)<br>
-❌ Closed PR [#17](https://github.com/MrBartusek/corkus.py/pull/17) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)
+❌ Closed PR [#16](https://github.com/MrBartusek/corkus.py/pull/16) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)
