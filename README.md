@@ -27,8 +27,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+❗️ Closed [#22](https://github.com/MrBartusek/DokChat/issues/22) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
+❗️ Opened [#22](https://github.com/MrBartusek/DokChat/issues/22) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
 ❗️ Opened [#21](https://github.com/MrBartusek/DokChat/issues/21) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
 ❗️ Closed [#9](https://github.com/MrBartusek/DokChat/issues/9) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-💪 Opened PR [#423](https://github.com/greatSumini/react-facebook-login/pull/423) in [greatSumini/react-facebook-login](https://github.com/greatSumini/react-facebook-login)<br>
-🔀 Forked [greatSumini/react-facebook-login](https://github.com/greatSumini/react-facebook-login)<br>
-🏷️ Published [v2.4.0](https://github.com/MrBartusek/MeteoalarmCard/releases/tag/v2.4.0) of [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+💪 Opened PR [#423](https://github.com/greatSumini/react-facebook-login/pull/423) in [greatSumini/react-facebook-login](https://github.com/greatSumini/react-facebook-login)
