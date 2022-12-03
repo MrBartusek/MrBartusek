@@ -27,8 +27,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+💪 Opened PR [#423](https://github.com/greatSumini/react-facebook-login/pull/423) in [greatSumini/react-facebook-login](https://github.com/greatSumini/react-facebook-login)<br>
+🔀 Forked [greatSumini/react-facebook-login](https://github.com/greatSumini/react-facebook-login)<br>
 🏷️ Published [v2.4.0](https://github.com/MrBartusek/MeteoalarmCard/releases/tag/v2.4.0) of [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❗️ Closed [#117](https://github.com/MrBartusek/MeteoalarmCard/issues/117) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🎉 Merged PR [#131](https://github.com/MrBartusek/MeteoalarmCard/pull/131) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-💪 Opened PR [#131](https://github.com/MrBartusek/MeteoalarmCard/pull/131) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Closed [#15](https://github.com/MrBartusek/corkus.py/issues/15) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)
+🎉 Merged PR [#131](https://github.com/MrBartusek/MeteoalarmCard/pull/131) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
