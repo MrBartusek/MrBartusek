@@ -27,8 +27,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+❗️ Closed [#24](https://github.com/MrBartusek/DokChat/issues/24) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
+❗️ Opened [#24](https://github.com/MrBartusek/DokChat/issues/24) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
 ❗️ Opened [#23](https://github.com/MrBartusek/DokChat/issues/23) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
 ❗️ Closed [#21](https://github.com/MrBartusek/DokChat/issues/21) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-🗣 Commented on [#423](https://github.com/greatSumini/react-facebook-login/pull/423) in [greatSumini/react-facebook-login](https://github.com/greatSumini/react-facebook-login)<br>
-❗️ Closed [#22](https://github.com/MrBartusek/DokChat/issues/22) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-❗️ Opened [#22](https://github.com/MrBartusek/DokChat/issues/22) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)
+🗣 Commented on [#423](https://github.com/greatSumini/react-facebook-login/pull/423) in [greatSumini/react-facebook-login](https://github.com/greatSumini/react-facebook-login)
