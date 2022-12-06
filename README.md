@@ -27,8 +27,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+❗️ Closed [#14](https://github.com/MrBartusek/DokChat/issues/14) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
 🗣 Commented on [#26](https://github.com/MrBartusek/DokChat/issues/26) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
 ❗️ Opened [#25](https://github.com/MrBartusek/DokChat/issues/25) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
 ❗️ Closed [#20](https://github.com/MrBartusek/DokChat/issues/20) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-❗️ Closed [#24](https://github.com/MrBartusek/DokChat/issues/24) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-❗️ Opened [#24](https://github.com/MrBartusek/DokChat/issues/24) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)
+❗️ Closed [#24](https://github.com/MrBartusek/DokChat/issues/24) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)
