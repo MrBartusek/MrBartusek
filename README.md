@@ -27,8 +27,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+🎉 Merged PR [#132](https://github.com/MrBartusek/MeteoalarmCard/pull/132) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❗️ Closed [#16](https://github.com/MrBartusek/DokChat/issues/16) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
 💪 Opened PR [#1](https://github.com/TheAlphamerc/react-tenor-gif-picker/pull/1) in [TheAlphamerc/react-tenor-gif-picker](https://github.com/TheAlphamerc/react-tenor-gif-picker)<br>
 🔀 Forked [TheAlphamerc/react-tenor-gif-picker](https://github.com/TheAlphamerc/react-tenor-gif-picker)<br>
-❗️ Closed [#25](https://github.com/MrBartusek/DokChat/issues/25) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-❗️ Closed [#5](https://github.com/MrBartusek/DokChat/issues/5) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)
+❗️ Closed [#25](https://github.com/MrBartusek/DokChat/issues/25) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)
