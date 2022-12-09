@@ -27,8 +27,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+❗️ Opened [#28](https://github.com/MrBartusek/DokChat/issues/28) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
+❗️ Closed [#17](https://github.com/MrBartusek/DokChat/issues/17) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
 ❗️ Closed [#13](https://github.com/MrBartusek/DokChat/issues/13) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
 🎉 Merged PR [#132](https://github.com/MrBartusek/MeteoalarmCard/pull/132) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Closed [#16](https://github.com/MrBartusek/DokChat/issues/16) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-💪 Opened PR [#1](https://github.com/TheAlphamerc/react-tenor-gif-picker/pull/1) in [TheAlphamerc/react-tenor-gif-picker](https://github.com/TheAlphamerc/react-tenor-gif-picker)<br>
-🔀 Forked [TheAlphamerc/react-tenor-gif-picker](https://github.com/TheAlphamerc/react-tenor-gif-picker)
+❗️ Closed [#16](https://github.com/MrBartusek/DokChat/issues/16) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)
