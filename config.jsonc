@@ -5,7 +5,8 @@
       "MrBartusek/CargoCars",
       "MrBartusek/corkus.py",
       "MrBartusek/GithubLive",
-      "MrBartusek/ClashCalendar"
+      "MrBartusek/ClashCalendar",
+      "MrBartusek/gif-picker-react"
    ],
    "technologies": [
       "typescript",
