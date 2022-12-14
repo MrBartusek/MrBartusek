@@ -28,8 +28,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+❗️ Opened [#8](https://github.com/MrBartusek/gif-picker-react/issues/8) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
 ❗️ Opened [#7](https://github.com/MrBartusek/gif-picker-react/issues/7) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
 ❗️ Closed [#1](https://github.com/MrBartusek/gif-picker-react/issues/1) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
 ❗️ Closed [#6](https://github.com/MrBartusek/gif-picker-react/issues/6) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
-❗️ Closed [#45](https://github.com/TimMikeladze/tsup-react-package-starter/issues/45) in [TimMikeladze/tsup-react-package-starter](https://github.com/TimMikeladze/tsup-react-package-starter)<br>
-🗣 Commented on [#45](https://github.com/TimMikeladze/tsup-react-package-starter/issues/45) in [TimMikeladze/tsup-react-package-starter](https://github.com/TimMikeladze/tsup-react-package-starter)
+❗️ Closed [#45](https://github.com/TimMikeladze/tsup-react-package-starter/issues/45) in [TimMikeladze/tsup-react-package-starter](https://github.com/TimMikeladze/tsup-react-package-starter)
