@@ -31,6 +31,7 @@
       "jquery",
       "express",
       "socketdotio",
+      "storybook",
       // OTHER
       "githubactions",
       "eslint",
