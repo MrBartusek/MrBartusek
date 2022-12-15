@@ -19,8 +19,8 @@ These are some of my open source projects
 - **[ClashCalendar](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;ClashCalendar)** Easy to use website that integrates League Of Legends clashes into Google Calendar 📅
 - **[ReplacementBot](https:&#x2F;&#x2F;github.com&#x2F;ReplacementBot&#x2F;ReplacementBot)** Powerful School Subsitutions bot for your Discord Server 📅
 - **[corkus.py](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;corkus.py)** Asynchronous, feature-rich and easy to use Python wrapper for Public Wynncraft API ⚙️
-- **[GithubLive](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;GithubLive)** Simple web application displaying current Github events as they are happening :octocat: 
 - **[gif-picker-react](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;gif-picker-react)** Tenor Gif Picker for React ⚛️
+- **[GithubLive](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;GithubLive)** Simple web application displaying current Github events as they are happening :octocat: 
 
 ### Github Stats
 
@@ -28,8 +28,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+❗️ Opened [#10](https://github.com/MrBartusek/gif-picker-react/issues/10) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
+❗️ Closed [#5](https://github.com/MrBartusek/gif-picker-react/issues/5) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
 ❗️ Closed [#9](https://github.com/MrBartusek/gif-picker-react/issues/9) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
 ❗️ Opened [#9](https://github.com/MrBartusek/gif-picker-react/issues/9) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
-❗️ Closed [#7](https://github.com/MrBartusek/gif-picker-react/issues/7) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
-🎉 Merged PR [#135](https://github.com/MrBartusek/MeteoalarmCard/pull/135) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-💪 Opened PR [#135](https://github.com/MrBartusek/MeteoalarmCard/pull/135) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+❗️ Closed [#7](https://github.com/MrBartusek/gif-picker-react/issues/7) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)
