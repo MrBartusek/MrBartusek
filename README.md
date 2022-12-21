@@ -16,9 +16,9 @@ These are some of my open source projects
 
 - **[MeteoalarmCard](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;MeteoalarmCard)** Meteoalarm, Météo-France and DWD severe weather warnings card for Home Assistant Lovelace UI ⛈️
 - **[CargoCars](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;CargoCars)** Web app to make cargo cars business in GTA V online easier 🚗
+- **[gif-picker-react](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;gif-picker-react)** Tenor Gif Picker for React ⚛️
 - **[ClashCalendar](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;ClashCalendar)** Easy to use website that integrates League Of Legends clashes into Google Calendar 📅
 - **[ReplacementBot](https:&#x2F;&#x2F;github.com&#x2F;ReplacementBot&#x2F;ReplacementBot)** Powerful School Subsitutions bot for your Discord Server 📅
-- **[gif-picker-react](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;gif-picker-react)** Tenor Gif Picker for React ⚛️
 - **[corkus.py](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;corkus.py)** Asynchronous, feature-rich and easy to use Python wrapper for Public Wynncraft API ⚙️
 - **[GithubLive](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;GithubLive)** Simple web application displaying current Github events as they are happening :octocat: 
 
