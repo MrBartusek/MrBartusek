@@ -28,8 +28,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+❗️ Closed [#139](https://github.com/MrBartusek/MeteoalarmCard/issues/139) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+🗣 Commented on [#139](https://github.com/MrBartusek/MeteoalarmCard/issues/139) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❗️ Closed [#8](https://github.com/MrBartusek/DokChat/issues/8) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
 ❗️ Closed [#30](https://github.com/MrBartusek/DokChat/issues/30) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-❗️ Opened [#30](https://github.com/MrBartusek/DokChat/issues/30) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-❗️ Closed [#12](https://github.com/MrBartusek/DokChat/issues/12) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-🗣 Commented on [#138](https://github.com/MrBartusek/MeteoalarmCard/issues/138) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+❗️ Opened [#30](https://github.com/MrBartusek/DokChat/issues/30) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)
