@@ -6,7 +6,8 @@
       "MrBartusek/corkus.py",
       "MrBartusek/GithubLive",
       "MrBartusek/ClashCalendar",
-      "MrBartusek/gif-picker-react"
+      "MrBartusek/gif-picker-react",
+      "MrBartusek/DokChat"
    ],
    "technologies": [
       "typescript",
