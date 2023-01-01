@@ -20,7 +20,7 @@ These are some of my open source projects
 - **[ClashCalendar](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;ClashCalendar)** Easy to use website that integrates League Of Legends clashes into Google Calendar 📅
 - **[ReplacementBot](https:&#x2F;&#x2F;github.com&#x2F;ReplacementBot&#x2F;ReplacementBot)** Powerful School Subsitutions bot for your Discord Server 📅
 - **[corkus.py](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;corkus.py)** Asynchronous, feature-rich and easy to use Python wrapper for Public Wynncraft API ⚙️
-- **[DokChat](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;DokChat)** DokChat is fully fledged instant web messaging application.
+- **[DokChat](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;DokChat)** DokChat is fully fledged instant web messaging application 💬
 - **[GithubLive](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;GithubLive)** Simple web application displaying current Github events as they are happening :octocat: 
 
 ### Github Stats
