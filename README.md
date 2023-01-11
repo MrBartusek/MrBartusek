@@ -29,8 +29,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+🗣 Commented on [#12](https://github.com/MrBartusek/gif-picker-react/pull/12) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
 💪 Opened PR [#141](https://github.com/MrBartusek/MeteoalarmCard/pull/141) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❗️ Closed [#33](https://github.com/MrBartusek/DokChat/issues/33) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
 ❗️ Closed [#35](https://github.com/MrBartusek/DokChat/issues/35) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-❗️ Opened [#35](https://github.com/MrBartusek/DokChat/issues/35) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-❗️ Closed [#34](https://github.com/MrBartusek/DokChat/issues/34) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)
+❗️ Opened [#35](https://github.com/MrBartusek/DokChat/issues/35) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)
