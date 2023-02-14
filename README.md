@@ -16,8 +16,8 @@ These are some of my open source projects
 
 - **[MeteoalarmCard](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;MeteoalarmCard)** Meteoalarm, Météo-France and DWD severe weather warnings card for Home Assistant Lovelace UI ⛈️
 - **[gif-picker-react](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;gif-picker-react)** Tenor Gif Picker for React ⚛️
-- **[CargoCars](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;CargoCars)** Web app to make cargo cars business in GTA V online easier 🚗
 - **[ClashCalendar](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;ClashCalendar)** Easy to use website that integrates League Of Legends clashes into Google Calendar 📅
+- **[CargoCars](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;CargoCars)** Web app to make cargo cars business in GTA V online easier 🚗
 - **[ReplacementBot](https:&#x2F;&#x2F;github.com&#x2F;ReplacementBot&#x2F;ReplacementBot)** Powerful School Subsitutions bot for your Discord Server 📅
 - **[corkus.py](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;corkus.py)** Asynchronous, feature-rich and easy to use Python wrapper for Public Wynncraft API ⚙️
 - **[DokChat](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;DokChat)** DokChat is fully fledged instant web messaging application 💬
