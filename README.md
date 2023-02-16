@@ -30,7 +30,7 @@ These are some of my open source projects
 ### ⚡ Recent Activity
 
 🗣 Commented on [#157](https://github.com/MrBartusek/MeteoalarmCard/issues/157) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+🗣 Commented on [#157](https://github.com/MrBartusek/MeteoalarmCard/issues/157) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❗️ Opened [#20](https://github.com/MrBartusek/corkus.py/issues/20) in [MrBartusek/corkus.py](https://github.com/MrBartusek/corkus.py)<br>
 ❗️ Closed [#154](https://github.com/MrBartusek/MeteoalarmCard/issues/154) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#154](https://github.com/MrBartusek/MeteoalarmCard/issues/154) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#133](https://github.com/MrBartusek/MeteoalarmCard/issues/133) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+🗣 Commented on [#154](https://github.com/MrBartusek/MeteoalarmCard/issues/154) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
