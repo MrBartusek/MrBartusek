@@ -1,7 +1,7 @@
 ## Hey there 👋 I'm MrBartusek
 
-I'm a 20 years old developer from Poland. Making stuff that some folks like it
-seams. This Readme uses two libiares that I made:  [TechnologyShields](https://github.com/MrBartusek/TechnologyShields) and
+I'm a 20 years old developer from Poland. Making stuff that some folks like as it
+seams. This Readme uses two libraries that I made:  [TechnologyShields](https://github.com/MrBartusek/TechnologyShields) and
 [ReadmeActivityFeed](https://github.com/MrBartusek/ReadmeActivityFeed). I also own [dokurno.dev](https://dokurno.dev/) so that's cool.
 
 ### Stuff I use
