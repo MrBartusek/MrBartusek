@@ -29,8 +29,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+💪 Opened PR [#47](https://github.com/rejuvenate/lovelace-horizon-card/pull/47) in [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)<br>
+💪 Opened PR [#46](https://github.com/rejuvenate/lovelace-horizon-card/pull/46) in [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)<br>
+🔀 Forked [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)<br>
 🗣 Commented on [#164](https://github.com/MrBartusek/MeteoalarmCard/issues/164) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🎉 Merged PR [#165](https://github.com/MrBartusek/MeteoalarmCard/pull/165) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🎉 Merged PR [#166](https://github.com/MrBartusek/MeteoalarmCard/pull/166) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Closed [#163](https://github.com/MrBartusek/MeteoalarmCard/issues/163) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-💪 Opened PR [#166](https://github.com/MrBartusek/MeteoalarmCard/pull/166) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+🎉 Merged PR [#165](https://github.com/MrBartusek/MeteoalarmCard/pull/165) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
