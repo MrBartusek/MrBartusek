@@ -29,8 +29,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+🗣 Commented on [#47](https://github.com/rejuvenate/lovelace-horizon-card/pull/47) in [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)<br>
 🗣 Commented on [#46](https://github.com/rejuvenate/lovelace-horizon-card/pull/46) in [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)<br>
 💪 Opened PR [#47](https://github.com/rejuvenate/lovelace-horizon-card/pull/47) in [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)<br>
 💪 Opened PR [#46](https://github.com/rejuvenate/lovelace-horizon-card/pull/46) in [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)<br>
-🔀 Forked [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)<br>
-🗣 Commented on [#164](https://github.com/MrBartusek/MeteoalarmCard/issues/164) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+🔀 Forked [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)
