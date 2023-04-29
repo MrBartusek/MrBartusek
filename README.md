@@ -29,8 +29,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+❗️ Opened [#14](https://github.com/MrBartusek/gif-picker-react/issues/14) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
 🗣 Commented on [#47](https://github.com/rejuvenate/lovelace-horizon-card/pull/47) in [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)<br>
 🗣 Commented on [#47](https://github.com/rejuvenate/lovelace-horizon-card/pull/47) in [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)<br>
 🗣 Commented on [#46](https://github.com/rejuvenate/lovelace-horizon-card/pull/46) in [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)<br>
-💪 Opened PR [#47](https://github.com/rejuvenate/lovelace-horizon-card/pull/47) in [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)<br>
-💪 Opened PR [#46](https://github.com/rejuvenate/lovelace-horizon-card/pull/46) in [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)
+💪 Opened PR [#47](https://github.com/rejuvenate/lovelace-horizon-card/pull/47) in [rejuvenate/lovelace-horizon-card](https://github.com/rejuvenate/lovelace-horizon-card)
