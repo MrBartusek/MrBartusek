@@ -30,7 +30,7 @@ These are some of my open source projects
 ### ⚡ Recent Activity
 
 🗣 Commented on [#168](https://github.com/MrBartusek/MeteoalarmCard/issues/168) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+🗣 Commented on [#168](https://github.com/MrBartusek/MeteoalarmCard/issues/168) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❗️ Closed [#168](https://github.com/MrBartusek/MeteoalarmCard/issues/168) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 💪 Opened PR [#1771](https://github.com/rytilahti/python-miio/pull/1771) in [rytilahti/python-miio](https://github.com/rytilahti/python-miio)<br>
-🔀 Forked [rytilahti/python-miio](https://github.com/rytilahti/python-miio)<br>
-❗️ Opened [#14](https://github.com/MrBartusek/gif-picker-react/issues/14) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)
+🔀 Forked [rytilahti/python-miio](https://github.com/rytilahti/python-miio)
