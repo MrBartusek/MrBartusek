@@ -29,8 +29,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+💪 Opened PR [#17](https://github.com/MrBartusek/gif-picker-react/pull/17) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
 🎉 Merged PR [#16](https://github.com/MrBartusek/gif-picker-react/pull/16) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
 💪 Opened PR [#16](https://github.com/MrBartusek/gif-picker-react/pull/16) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
 🎉 Merged PR [#15](https://github.com/MrBartusek/gif-picker-react/pull/15) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
-💪 Opened PR [#15](https://github.com/MrBartusek/gif-picker-react/pull/15) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
-🗣 Commented on [#1771](https://github.com/rytilahti/python-miio/pull/1771) in [rytilahti/python-miio](https://github.com/rytilahti/python-miio)
+💪 Opened PR [#15](https://github.com/MrBartusek/gif-picker-react/pull/15) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)
