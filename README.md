@@ -29,8 +29,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+🗣 Commented on [#171](https://github.com/MrBartusek/MeteoalarmCard/issues/171) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+💪 Opened PR [#172](https://github.com/MrBartusek/MeteoalarmCard/pull/172) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#169](https://github.com/MrBartusek/MeteoalarmCard/issues/169) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🏷️ Published [v1.2.0](https://github.com/MrBartusek/gif-picker-react/releases/tag/v1.2.0) of [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
-❗️ Closed [#14](https://github.com/MrBartusek/gif-picker-react/issues/14) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
-🎉 Merged PR [#17](https://github.com/MrBartusek/gif-picker-react/pull/17) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
-💪 Opened PR [#17](https://github.com/MrBartusek/gif-picker-react/pull/17) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)
+❗️ Closed [#14](https://github.com/MrBartusek/gif-picker-react/issues/14) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)
