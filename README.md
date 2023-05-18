@@ -29,8 +29,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+❗️ Closed [#94](https://github.com/MrBartusek/MeteoalarmCard/issues/94) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❗️ Closed [#164](https://github.com/MrBartusek/MeteoalarmCard/issues/164) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 🗣 Commented on [#164](https://github.com/MrBartusek/MeteoalarmCard/issues/164) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
 ❗️ Closed [#170](https://github.com/MrBartusek/MeteoalarmCard/issues/170) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#170](https://github.com/MrBartusek/MeteoalarmCard/issues/170) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Closed [#171](https://github.com/MrBartusek/MeteoalarmCard/issues/171) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+🗣 Commented on [#170](https://github.com/MrBartusek/MeteoalarmCard/issues/170) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
