@@ -29,8 +29,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
-🗣 Commented on [#183](https://github.com/MrBartusek/MeteoalarmCard/issues/183) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-❗️ Closed [#183](https://github.com/MrBartusek/MeteoalarmCard/issues/183) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🎉 Merged PR [#184](https://github.com/MrBartusek/MeteoalarmCard/pull/184) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-💪 Opened PR [#184](https://github.com/MrBartusek/MeteoalarmCard/pull/184) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-🗣 Commented on [#182](https://github.com/MrBartusek/MeteoalarmCard/issues/182) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
+🗣 Commented on [#185](https://github.com/MrBartusek/MeteoalarmCard/issues/185) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+❗️ Closed [#185](https://github.com/MrBartusek/MeteoalarmCard/issues/185) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+🎉 Merged PR [#186](https://github.com/MrBartusek/MeteoalarmCard/pull/186) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+💪 Opened PR [#186](https://github.com/MrBartusek/MeteoalarmCard/pull/186) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
+🗣 Commented on [#183](https://github.com/MrBartusek/MeteoalarmCard/issues/183) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)
