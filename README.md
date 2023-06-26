@@ -29,8 +29,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+🏷️ Published [v1.3.0](https://github.com/MrBartusek/gif-picker-react/releases/tag/v1.3.0) of [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
 ❗️ Closed [#18](https://github.com/MrBartusek/gif-picker-react/issues/18) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
 ❗️ Closed [#13](https://github.com/MrBartusek/gif-picker-react/issues/13) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
 🗣 Commented on [#13](https://github.com/MrBartusek/gif-picker-react/issues/13) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
-🎉 Merged PR [#22](https://github.com/MrBartusek/gif-picker-react/pull/22) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)<br>
-❗️ Closed [#19](https://github.com/MrBartusek/gif-picker-react/issues/19) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)
+🎉 Merged PR [#22](https://github.com/MrBartusek/gif-picker-react/pull/22) in [MrBartusek/gif-picker-react](https://github.com/MrBartusek/gif-picker-react)
