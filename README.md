@@ -29,8 +29,8 @@ These are some of my open source projects
 
 ### ⚡ Recent Activity
 
+🎉 Merged PR [#38](https://github.com/MrBartusek/DokChat/pull/38) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
+❌ Reopened PR [#38](https://github.com/MrBartusek/DokChat/pull/38) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
+❌ Closed PR [#38](https://github.com/MrBartusek/DokChat/pull/38) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
 🎉 Merged PR [#37](https://github.com/MrBartusek/DokChat/pull/37) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-💪 Opened PR [#37](https://github.com/MrBartusek/DokChat/pull/37) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-❗️ Opened [#36](https://github.com/MrBartusek/DokChat/issues/36) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)<br>
-🗣 Commented on [#203](https://github.com/MrBartusek/MeteoalarmCard/pull/203) in [MrBartusek/MeteoalarmCard](https://github.com/MrBartusek/MeteoalarmCard)<br>
-💪 Opened PR [#288](https://github.com/MomenSherif/react-oauth/pull/288) in [MomenSherif/react-oauth](https://github.com/MomenSherif/react-oauth)
+💪 Opened PR [#37](https://github.com/MrBartusek/DokChat/pull/37) in [MrBartusek/DokChat](https://github.com/MrBartusek/DokChat)
