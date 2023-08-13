@@ -8,49 +8,5 @@
       "MrBartusek/ClashCalendar",
       "MrBartusek/gif-picker-react",
       "MrBartusek/DokChat"
-   ],
-   "technologies": [
-      "typescript",
-      "javascript",
-      "nodedotjs",
-      "npm",
-      // PYTHON
-      "python",
-      "pypi",
-      "readthedocs",
-      // DATABASE
-      "sqlite",
-      "postgresql",
-      // HOSTING
-      "heroku",
-      "pm2",
-      "amazonaws",
-      // WEB
-      "html5",
-      "react",
-      "bootstrap",
-      "jquery",
-      "express",
-      "socketdotio",
-      "storybook",
-      // OTHER
-      "githubactions",
-      "eslint",
-      "git",
-      "visualstudiocode",
-      "wakatime",
-      "discord",
-      "homeassistant",
-      "arduino",
-      "raspberrypi"
-   ],
-   "pokemonList": [
-      "Charizard",
-      "Bulbasaur",
-      "Eevee",
-      "Squirtle",
-      "Snorlax",
-      "Umbreon",
-      "Pikachu"
    ]
 }
