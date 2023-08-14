@@ -26,6 +26,6 @@ Also check out my [other projects](https://github.com/MrBartusek?tab=repositorie
 
 ### 📬 Get In Touch
 
-- Discord: [mrbartusek](discordapp.com/users/212988300137463809)
+- Discord: [mrbartusek](https://discordapp.com/users/212988300137463809)
 - E-Mail: [bartosz@dokurno.dev](mailto:bartosz@dokurno.dev)
 - LinkedIn: [Bartosz Dokurno](https://www.linkedin.com/in/bartosz-dokurno/)
