@@ -9,14 +9,22 @@ const config = commentJson.parse(fs.readFileSync('config.jsonc').toString());
 async function getProjects(config) {
    let result = [];
    for (const projectName of config.projects) {
-      console.log(`Fetching ${projectName}`)
-      const projectData = await callApi(`https://api.github.com/repos/${projectName}`)
-      let project = {}
-      project.stars = projectData.stargazers_count
-      project.name = projectData.name
-      project.url = projectData.html_url
-      project.description = projectData.description
-      result.push(project)
+      const data = await callApi(`https://api.github.com/repos/${projectName}`)
+      const project = {
+         name: data.name,
+         stars: data.stargazers_count,
+         url: data.html_url,
+         description: data.description,
+         archived: data.archived
+      };
+
+      if(project.archived) {
+         console.log(`[(!) Project Skipped] ${project.name} - This project is archived and will be hidden`)
+         continue;
+      }
+
+      result.push(project);
+      console.log(`[Fetched Project] ${project.name} - ${project.stars} stars`)
    }
    result = result.sort((a, b) => (a.stars < b.stars) ? 1 : -1)
    return result
