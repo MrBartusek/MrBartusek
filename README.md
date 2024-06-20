@@ -9,15 +9,13 @@ I also happen to own [dokurno.dev](https://dokurno.dev/?utm_source=github&utm_me
 
 These are some of my featured Open-Source projects:
 
-- **[MeteoalarmCard](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;MeteoalarmCard)** - Meteoalarm, Météo-France and DWD severe weather warnings card for Home Assistant Lovelace UI ⛈️
-- **[gif-picker-react](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;gif-picker-react)** - Tenor GIF Picker component for React ⚛️
-- **[corkus.py](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;corkus.py)** - Asynchronous, feature-rich and easy to use Python wrapper for Public Wynncraft API ⚙️
-- **[ClashCalendar](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;ClashCalendar)** - Easy to use website that integrates League Of Legends clashes into Google Calendar 📅
-- **[CargoCars](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;CargoCars)** - Web app to make cargo cars business in GTA V online easier 🚗
-- **[ReplacementBot](https:&#x2F;&#x2F;github.com&#x2F;ReplacementBot&#x2F;ReplacementBot)** - Powerful School Subsitutions bot for your Discord Server 📅
-- **[DokChat](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;DokChat)** - DokChat is fully fledged instant web messaging application 💬
-- **[stocked-up](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;stocked-up)** - Complete Inventory Management System that focuses on managing stock for large organizations 📦
-- **[GithubLive](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;GithubLive)** - Simple web application displaying current Github events as they are happening :octocat: 
+- **[MeteoalarmCard](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;MeteoalarmCard)** [123★]: Meteoalarm, Météo-France and DWD severe weather warnings card for Home Assistant Lovelace UI ⛈️
+- **[gif-picker-react](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;gif-picker-react)** [32★]: Tenor GIF Picker component for React ⚛️
+- **[ClashCalendar](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;ClashCalendar)** [7★]: Easy to use website that integrates League Of Legends clashes into Google Calendar 📅
+- **[CargoCars](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;CargoCars)** [7★]: Web app to make cargo cars business in GTA V online easier 🚗
+- **[DokChat](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;DokChat)** [4★]: DokChat is fully fledged instant web messaging application 💬
+- **[stocked-up](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;stocked-up)** [2★]: Complete Inventory Management System that focuses on managing stock for large organizations 📦
+- **[GithubLive](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;GithubLive)** [2★]: Simple web application displaying current Github events as they are happening :octocat: 
 
 Also check out my [other projects](https://github.com/MrBartusek?tab=repositories&q=&type=source&language=&sort=stargazers)
 
