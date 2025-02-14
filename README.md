@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Bartosz, also known as `MrBartusek` around here. I'm a 21 year-old
+I'm Bartosz, also known as `MrBartusek` around here. I'm a 22 year-old
 from Poland. My interests revolve around web development and all things Open-Source.
 I'm proud to say that I'm the maintainer of a couple of such projects.
 I also happen to own [dokurno.dev](https://dokurno.dev/?utm_source=github&utm_medium=social&utm_campaign=github_profile_readme) – pretty cool, right?
