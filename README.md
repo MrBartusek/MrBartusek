@@ -9,7 +9,7 @@ I also happen to own [dokurno.dev](https://dokurno.dev/?utm_source=github&utm_me
 
 These are some of my featured Open-Source projects:
 
-- **[MeteoalarmCard](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;MeteoalarmCard)** `153★`: Meteoalarm, Météo-France and DWD severe weather warnings card for Home Assistant Lovelace UI ⛈️
+- **[MeteoalarmCard](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;MeteoalarmCard)** `154★`: Meteoalarm, Météo-France and DWD severe weather warnings card for Home Assistant Lovelace UI ⛈️
 - **[gif-picker-react](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;gif-picker-react)** `40★`: Tenor GIF Picker component for React ⚛️
 - **[stocked-up](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;stocked-up)** `13★`: Complete Inventory Management System that focuses on managing stock for large organizations 📦
 - **[ClashCalendar](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;ClashCalendar)** `7★`: Easy to use website that integrates League Of Legends clashes into Google Calendar 📅
