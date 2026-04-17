@@ -13,7 +13,7 @@ These are some of my featured Open-Source projects:
 - **[gif-picker-react](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;gif-picker-react)** `40★`: Tenor GIF Picker component for React ⚛️
 - **[stocked-up](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;stocked-up)** `14★`: Complete Inventory Management System that focuses on managing stock for large organizations 📦
 - **[ClashCalendar](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;ClashCalendar)** `7★`: Easy to use website that integrates League Of Legends clashes into Google Calendar 📅
-- **[CargoCars](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;CargoCars)** `7★`: Web app to make cargo cars business in GTA V online easier 🚗
+- **[CargoCars](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;CargoCars)** `6★`: Web app to make cargo cars business in GTA V online easier 🚗
 - **[DokChat](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;DokChat)** `5★`: DokChat is fully fledged instant web messaging application 💬
 - **[GithubLive](https:&#x2F;&#x2F;github.com&#x2F;MrBartusek&#x2F;GithubLive)** `2★`: Simple web application displaying current Github events as they are happening :octocat: 
 
